@@ -1,2 +1,2 @@
 # mammoapp
-project for a decision aid
+repository for a decision aid project
