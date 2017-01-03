@@ -160,7 +160,7 @@
 
                 <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>
 
-                
+
                 <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>
 
               </div>
@@ -170,8 +170,8 @@
           </div>
         </main>
       </div>
-      
-      
+
+
 
 
       <!--                       -->
@@ -221,7 +221,7 @@
             </li>
             <li>
               <ul>
-                <li>chutze M, et al. Alcohol attributable burden of incidence of cancer in eight European countries based on results from prospective cohort study. BMJ 2011;342:d1584.</li>
+                <li>Schutze M, et al. Alcohol attributable burden of incidence of cancer in eight European countries based on results from prospective cohort study. BMJ 2011;342:d1584.</li>
                 <li>Liu Y, et al. Alcohol intake between menarche and first pregnancy: a prospective study of breast cancer risk. J Natl Cancer Inst 2013;105:1571-8.</li>
               </ul>
             </li>
