@@ -91,6 +91,11 @@ ol ol{
   margin-top: 1em;
 }
 
+.mdl-dialog__content ul,
+.mdl-dialog__content ol {
+    margin-top: 0px;
+}
+
 sup {
     font-weight: bold;
 }

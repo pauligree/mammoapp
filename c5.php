@@ -47,7 +47,7 @@
         <span class="mdl-layout-title"><img src="images/q.b._Logo_web_orz.png" class="logo-orz-header" alt="q.b. per sapere quanto basta"/></span>
         <div class="mdl-layout-spacer"></div>
         <a href="#" class="mdl-color-text--white open-modal-fonti"><i class="material-icons mdl-24">library_books</i></a>
-               <a id="open-tree-sitemap" href="#" class="open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i></a>
+        <a id="open-tree-sitemap" href="#" class="open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i></a>
       </div>
     </header>
     <div class="demo-drawer mdl-layout__drawer mdl-color--grey-800 mdl-color-text--white" aria-hidden="false">
@@ -67,9 +67,9 @@
         <link rel="stylesheet" href="css/mdl-jquery-modal-dialog.css">
         <link rel="stylesheet" href="css/styles.css">
         <a id="open-modal-glossario" class="mdl-navigation__link" href="#"><i class="mdl-color-text--white material-icons" role="presentation">pageview</i>Glossario</a>
-                  <a class="mdl-navigation__link"  href=""><i class="mdl-color-text--white material-icons" role="presentation">help_outline</i>Come funziona</a>
+        <a class="mdl-navigation__link"  href=""><i class="mdl-color-text--white material-icons" role="presentation">help_outline</i>Come funziona</a>
 
-          <a id="open-tree-sitemap" href="#" class="mdl-navigation__link open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i>Mappa del sito</a>
+        <a id="open-tree-sitemap" href="#" class="mdl-navigation__link open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i>Mappa del sito</a>
         <div class="mdl-layout-spacer"></div>
       </nav>
     </div>
@@ -140,106 +140,104 @@
                 <div>
                   <p>&nbsp;</p>
                   <p><a href="#" class="open-modal-fonti">Clicca qui</a> per consultare le fonti.</p>
-                  </div>
                 </div>
               </div>
+            </div>
 
-          <!--                       -->
-          <!--  VAI A...             -->
-          <!--                       -->
+            <!--                       -->
+            <!--  VAI A...             -->
+            <!--                       -->
 
-          <div class="vai-a-spacer">&nbsp;</div>
+            <div class="vai-a-spacer">&nbsp;</div>
 
-          <div class="mdl-cell mdl-cell--1-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet">
-            <div class="vai-a mdl-color-text--grey-400">Vai a...<br/><i class="material-icons">subdirectory_arrow_right</i></div>
-          </div>
+            <div class="mdl-cell mdl-cell--1-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet">
+              <div class="vai-a mdl-color-text--grey-400">Vai a...<br/><i class="material-icons">subdirectory_arrow_right</i></div>
+            </div>
 
-          <div class="mdl-shadow--2dp- mdl-cell mdl-cell--11-col mdl-grid">
+            <div class="mdl-shadow--2dp- mdl-cell mdl-cell--11-col mdl-grid">
 
-            <div class="vai-a-container">
+              <div class="vai-a-container">
 
-              <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>
+                <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>
 
-              
-              <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>
+                
+                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>
+
+              </div>
 
             </div>
 
           </div>
-
-            </div>
-          </main>
-        </div>
-         
-         
-
-
-        <!--                       -->
-        <!--    WIDGET A COMPARSA  -->
-        <!--                       -->
-
-
-        <!--    TOOL TIPS   -->
-
-
-        <div class="mdl-tooltip mdl-tooltip--left" data-mdl-for="open-modal-note">Fonti</div> 
-
-
-        <!--    MODALS      -->
-
-
-        <dialog class="mdl-dialog mdl-cell--10-col mdl-cell--10-col-tablet mdl-cell--8-col-desktop">
-
-          <div class="mdl-dialog__actions">
-            <button type="button" class="mdl-button mdl-button--raised close">Chiudi</button>
-          </div>
-        </dialog>
-
-
-        <!--    MODALS      -->
-        <!--    mettere tutti i modal dentro il div hide-modal per rimuoverli dalla visualizzazione  -->
-
-        <div class="hide-modal">
-
-
-
-         <div id="modal-fonti" class="mdl-dialog mdl-cell--11-col mdl-cell--11-col-tablet mdl-cell--11-col-desktop">
-      <span class="mdl-dialog__title"><h4>Fonti</h4></span>
-      <div class="mdl-dialog__content">
+        </main>
+      </div>
       
-      <div style="biblio">1)</div>
-<ul>
-<li>Bhaskaran K,et al. Body-mass index and risk of 22 specific cancers: a population-based cohort study of 5.24 million UK adults. Lancet 2014;384:755.</li>
-<li>IARC Handbooks of Cancer Prevention. Weight control and physical activity. IARC, Lyon, 2002.</li>
-</ul>
-      <div style="biblio">2)</div>
-<ul>
-<li>Esposito K, et al. Metabolic syndrome and risk of cancer: a systematic review and meta-analysis. Diabetes Care 2012;35:2402-11.</li>
-<li>Berrino F, et al. Metabolic syndrome and breast cancer prognosis. Breast Cancer Res Treat 2014;147:159.</li>
-</ul>
-      <div style="biblio">3)</div>
-<ul>
-<li>chutze M, et al. Alcohol attributable burden of incidence of cancer in eight European countries based on results from prospective cohort study. BMJ 2011;342:d1584.</li>
-<li>Liu Y, et al. Alcohol intake between menarche and first pregnancy: a prospective study of breast cancer risk. J Natl Cancer Inst 2013;105:1571-8.</li>
-</ul>
-      <div style="biblio">4)</div>
-<ul>
-<li>Lippi G, et al. Meat consumption and cancer risk: a critical review of published meta-analyses. Crit Rev Oncol Hematol 2016;97:1.</li>
-<li>Taylor VH, et al. Is red meat intake a risk factor for breast cancer among premenopausal women? Breast Cancer Res Treat 2009; 117:1-8.</li>
-<li>Namiranian N, et al. Risk factors of breast cancer in the Eastern Mediterranean Region: a systematic review and meta-analysis. Asian Pac J Cancer Prev 2014;15, 9535-41.</li>
-<li>Alexander DD, et al. A review and meta-analysis of red and processed meat consumption and breast cancer. Nutr Res Rev 2010; 23:349-65.</li>
-<li>Farvid MS, et al. Dietary protein sources in early adulthood and breast cancer incidence: prospective cohort study. BMJ 2014;348:g3437</li>
-</ul>
-      <div style="biblio">5)</div>
-<ul>
-<li>Gaudet M, et al. Active smoking and breast cancer risk: original cohort data and meta-analysis. J Natl Cancer Inst 2013; 105:515-25.</li>
-</ul>
-      <div style="biblio">6)</div>
-<ul>
-<li>Manson JE, et al. Menopausal hormone therapy and health outcomes during the intervention and extended poststopping phases of the Women&rsquo;s Health Initiative randomized trials. JAMA 2013;310:1353-68.</li>
-<li>Reeves GK, et al. Hormonal therapy for menopause and breast-cancer risk by histological type: a cohort study and meta-analysis. Lancet Oncology 2006;7:910-8.</li>
-<li>Jones ME, et al. Menopausal hormone therapy and breast cancer: what is the true size of the increased risk? Br J Cancer 2016; 115:607-15.</li>
-</ul>
+      
+
+
+      <!--                       -->
+      <!--    WIDGET A COMPARSA  -->
+      <!--                       -->
+
+
+      <!--    TOOL TIPS   -->
+
+
+      <div class="mdl-tooltip mdl-tooltip--left" data-mdl-for="open-modal-note">Fonti</div> 
+
+
+      <!--    MODALS      -->
+
+
+      <dialog class="mdl-dialog mdl-cell--10-col mdl-cell--10-col-tablet mdl-cell--8-col-desktop">
+
+        <div class="mdl-dialog__actions">
+          <button type="button" class="mdl-button mdl-button--raised close">Chiudi</button>
+        </div>
+      </dialog>
+
+
+      <!--    MODALS      -->
+      <!--    mettere tutti i modal dentro il div hide-modal per rimuoverli dalla visualizzazione  -->
+
+      <div class="hide-modal">
+
+
+
+       <div id="modal-fonti" class="mdl-dialog mdl-cell--11-col mdl-cell--11-col-tablet mdl-cell--11-col-desktop">
+        <span class="mdl-dialog__title"><h4>Fonti</h4></span>
+        <div class="mdl-dialog__content">
+          <ol>
+            <li>
+              <ul>
+                <li>Bhaskaran K,et al. Body-mass index and risk of 22 specific cancers: a population-based cohort study of 5.24 million UK adults. Lancet 2014;384:755.</li>
+                <li>IARC Handbooks of Cancer Prevention. Weight control and physical activity. IARC, Lyon, 2002.</li>
+              </ul>
+            </li>
+            <li>
+              <ul>
+                <li>Esposito K, et al. Metabolic syndrome and risk of cancer: a systematic review and meta-analysis. Diabetes Care 2012;35:2402-11.</li>
+                <li>Berrino F, et al. Metabolic syndrome and breast cancer prognosis. Breast Cancer Res Treat 2014;147:159.</li>
+              </ul>
+            </li>
+            <li>
+              <ul>
+                <li>chutze M, et al. Alcohol attributable burden of incidence of cancer in eight European countries based on results from prospective cohort study. BMJ 2011;342:d1584.</li>
+                <li>Liu Y, et al. Alcohol intake between menarche and first pregnancy: a prospective study of breast cancer risk. J Natl Cancer Inst 2013;105:1571-8.</li>
+              </ul>
+            </li>
+            <li>
+              <ul>
+                <li>Lippi G, et al. Meat consumption and cancer risk: a critical review of published meta-analyses. Crit Rev Oncol Hematol 2016;97:1.</li>
+                <li>Taylor VH, et al. Is red meat intake a risk factor for breast cancer among premenopausal women? Breast Cancer Res Treat 2009; 117:1-8.</li>
+                <li>Namiranian N, et al. Risk factors of breast cancer in the Eastern Mediterranean Region: a systematic review and meta-analysis. Asian Pac J Cancer Prev 2014;15, 9535-41.</li>
+                <li>Alexander DD, et al. A review and meta-analysis of red and processed meat consumption and breast cancer. Nutr Res Rev 2010; 23:349-65.</li>
+                <li>Farvid MS, et al. Dietary protein sources in early adulthood and breast cancer incidence: prospective cohort study. BMJ 2014;348:g3437</li>
+              </ul>
+            </li>
+            <li>
+              <ul>
+                <li>Gaudet M, et al. Active smoking and breast cancer risk: original cohort data and meta-analysis. J Natl Cancer Inst 2013; 105:515-25.</li>
+              </ul>
             </div>
           </div>
 
@@ -285,7 +283,7 @@
           var glossario = $('#modal-glossario').html();  
           var note = $('#modal-note').html();  
           
-var fonti = $('#modal-fonti').html();
+          var fonti = $('#modal-fonti').html();
 
           $('.open-modal-fonti').click(function () {
             showDialog({
