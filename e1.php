@@ -61,10 +61,7 @@
 
       <nav class="demo-navigation mdl-navigation mdl-color--grey-900">
         <a class="mdl-navigation__link" href="./"><i class="mdl-color-text--white material-icons" role="presentation">home</i>Inizio</a>
-        <a class="mdl-navigation__link" href=""><i class="mdl-color-text--white material-icons" role="presentation">people</i>Chi siamo</a>
-        
-        <link rel="stylesheet" href="css/mdl-jquery-modal-dialog.css">
-        <link rel="stylesheet" href="css/styles.css">
+        <a class="mdl-navigation__link" href=""><i class="mdl-color-text--white material-icons" role="presentation">people</i>
         <a id="open-modal-glossario" class="mdl-navigation__link" href="#"><i class="mdl-color-text--white material-icons" role="presentation">pageview</i>Glossario</a>
                   <a class="mdl-navigation__link"  href=""><i class="mdl-color-text--white material-icons" role="presentation">help_outline</i>Come funziona</a>
 
