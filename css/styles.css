@@ -93,7 +93,7 @@ ol ol{
 
 .mdl-dialog__content ul,
 .mdl-dialog__content ol {
-    margin-top: 0px;
+    margin-top: 10px;
 }
 
 sup {
@@ -118,8 +118,8 @@ sup {
 }
 
 .mdl-grid.demo-content {
-    border-radius: 80px;
-    padding-top: 40px;
+    border-radius: 10px;
+    padding-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 20px;

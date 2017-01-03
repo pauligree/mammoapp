@@ -218,7 +218,7 @@
             </li>
             <li>
               <ul>
-                <li>chutze M, et al. Alcohol attributable burden of incidence of cancer in eight European countries based on results from prospective cohort study. BMJ 2011;342:d1584.</li>
+              <li>Schutze M, et al. Alcohol attributable burden of incidence of cancer in eight European countries based on results from prospective cohort study. BMJ 2011;342:d1584.</li>
                 <li>Liu Y, et al. Alcohol intake between menarche and first pregnancy: a prospective study of breast cancer risk. J Natl Cancer Inst 2013;105:1571-8.</li>
               </ul>
             </li>
