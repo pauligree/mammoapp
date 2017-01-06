@@ -49,7 +49,7 @@
       <div class="mdl-layout__header-row">
         <span class="mdl-layout-title"><img src="images/q.b._Logo_web_orz.png" class="logo-orz-header" alt="q.b. per sapere quanto basta"/></span>
         <div class="mdl-layout-spacer"></div>
-        <a href="#" class="open-modal-help mdl-color-text--white"><i class="material-icons mdl-24">live_help</i></a>
+        <a href="#" class="open-modal-help mdl-color-text--white"><i class="material-icons mdl-24">help_outline</i></a>
         <a id="open-tree-sitemap" href="#" class="open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i></a>
 
       </div>
@@ -69,7 +69,7 @@
         <a class="mdl-navigation__link" href=""><i class="mdl-color-text--white material-icons" role="presentation">people</i>Chi siamo</a>
 
         <a id="open-modal-glossario" class="mdl-navigation__link" href="#"><i class="mdl-color-text--white material-icons" role="presentation">pageview</i>Glossario</a>
-        <a class="mdl-navigation__link"  href=""><i class="mdl-color-text--white material-icons" role="presentation">help_outline</i>Come funziona</a>
+        <a id="mostra-come-funziona" class="mdl-navigation__link"  href="#"><i class="mdl-color-text--white material-icons" role="presentation">help_outline</i>Come funziona</a>
 
         <a id="open-tree-sitemap" href="#" class="mdl-navigation__link open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i>Mappa del sito</a>
         <div class="mdl-layout-spacer"></div>
@@ -306,7 +306,7 @@
   <div class="hide-modal">
 
 
-    <?php include'includes/glossario.php';?>
+    <?php include'includes/common_modals.php';?>
     
 
     <div id="modal-help" class="mdl-dialog mdl-cell--11-col mdl-cell--11-col-tablet mdl-cell--11-col-desktop">
@@ -338,7 +338,7 @@
 
           //copio l'html del modal nelle variabili da mostrare
           var glossario = $('#modal-glossario').html();  
-          var help = $('#modal-help').html();  
+          var help_game = $('#modal-help').html();  
 
           $('#open-modal-glossario').click(function () {
             showDialog({
@@ -351,7 +351,7 @@
 
           $('.open-modal-help').click(function () {
             showDialog({
-              text: help,
+              text: help_game,
               positive: {
                 title: 'Chiudi'
               }
@@ -359,7 +359,7 @@
           });
 
           showDialog({
-            text: help,
+            text: help_game,
             positive: {
               title: 'Chiudi'
             }

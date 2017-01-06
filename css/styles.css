@@ -505,6 +505,10 @@ a.button-vai-a:hover{
   overflow: auto;
 }
 
+.dialog-container, .loading-container {
+    background: rgba(255, 255, 255, 0.85);
+}
+
 .hide-modal {
   display: none;
 }

@@ -63,7 +63,7 @@
         <a class="mdl-navigation__link" href="./"><i class="mdl-color-text--white material-icons" role="presentation">home</i>Inizio</a>
         <a class="mdl-navigation__link" href=""><i class="mdl-color-text--white material-icons" role="presentation">people</i>
           <a id="open-modal-glossario" class="mdl-navigation__link" href="#"><i class="mdl-color-text--white material-icons" role="presentation">pageview</i>Glossario</a>
-          <a class="mdl-navigation__link"  href=""><i class="mdl-color-text--white material-icons" role="presentation">help_outline</i>Come funziona</a>
+          <a id="mostra-come-funziona" class="mdl-navigation__link"  href="#"><i class="mdl-color-text--white material-icons" role="presentation">help_outline</i>Come funziona</a>
 
           <a id="open-tree-sitemap" href="#" class="mdl-navigation__link open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i>Mappa del sito</a>
           <div class="mdl-layout-spacer"></div>
@@ -191,7 +191,7 @@
 
         <div class="hide-modal">
 
-          <?php include'includes/glossario.php';?>
+          <?php include'includes/common_modals.php';?>
           
         </div>
 
