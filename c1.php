@@ -99,7 +99,7 @@
         <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell mdl-cell--12-col mdl-grid">
           <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell--9-col  mdl-grid">
             <h3>Che cosa è e come si cura il tumore al seno</h3>
-            <p>Il tumore al seno dipende da <a href="c3.php">diversi fattori</a>&nbsp;(tra cui <a href="c3.php">l&rsquo;et&agrave;, la storia familiare e lo stile di vita</a>) ed &egrave; molto comune (vedi il <a href="#" class="gfx-c3-1">grafico 1</a>) ma ha <a href="c4.php">ottime probabilit&agrave; di guarigione</a> (vedi il <a href="#" class="gfx-c3-1">grafico 2</a>).</p>
+            <p>Il tumore al seno dipende da <a href="c3.php">diversi fattori</a>&nbsp;(tra cui <a href="c3.php">l&rsquo;et&agrave;, la storia familiare e lo stile di vita</a>) ed &egrave; molto comune (vedi il <a href="#" class="gfx-c3-1">grafico 1</a>) ma ha <a href="c4.php">ottime probabilit&agrave; di guarigione</a> (vedi il <a href="#" class="gfx-c3-2">grafico 2</a>).</p>
             <p>Si pu&ograve; manifestare in diverse forme ed &egrave; dovuto alla moltiplicazione incontrollata di alcune cellule della ghiandola mammaria che si trasformano in cellule maligne. Le cellule tumorali possono penetrare e crescere nei tessuti sani e col tempo anche migrare in altri organi a distanza, formando le cosiddette metastasi. Un tumore con metastasi &egrave; pi&ugrave; difficile da combattere: per questo &egrave; importante intervenire per tempo.</p>
             <p>Alla maggior parte delle donne con diagnosi di tumore del seno viene consigliato un trattamento chirurgico con cui viene asportato solo il tumore, insieme al tessuto circostante, o l&rsquo;intero seno, secondo quanto &egrave; estesa la malattia. Altri trattamenti possibili, in aggiunta e in diverse sequenze, sono la radioterapia o la chemioterapia o la terapia ormonale, che si sono dimostrati utili per ridurre la possibilit&agrave; che la malattia si ripresenti. </p>
           </div>
@@ -203,7 +203,7 @@
 
           $('.gfx-c3-1').click(function () {
             showDialog({
-              text: '<img src="images/gfx/c3.gfx.01.png" class="gfx-modal" />',
+              text: '<img src="images/gfx/gfx-c1-1.png?004" class="gfx-modal" />',
               positive: {
                 title: 'Chiudi'
               }
@@ -212,7 +212,7 @@
           
           $('.gfx-c3-2').click(function () {
             showDialog({
-              text: '<img src="images/gfx/c3.gfx.02.png" class="gfx-modal" />',
+              text: '<img src="images/gfx/gfx-c1-2.png?002" class="gfx-modal" />',
               positive: {
                 title: 'Chiudi'
               }
