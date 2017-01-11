@@ -212,7 +212,7 @@
           
           $('.gfx-c3-2').click(function () {
             showDialog({
-              text: '<img src="images/gfx/gfx-c1-2.png?002" class="gfx-modal" />',
+              text: '<img src="images/gfx/gfx-c1-2.png?003" class="gfx-modal" />',
               positive: {
                 title: 'Chiudi'
               }

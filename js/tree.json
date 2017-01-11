@@ -1,0 +1,11 @@
+[
+
+{"name":"DirtySprite","size":8833,"imports":["Particle","Geometry"]},
+{"name":"Particle","size":2822,"imports":[]},
+{"name":"Geometry","size":10993,"imports":[]},
+{"name":"IEvaluable","size":335,"imports":[]},
+{"name":"IPredicate","size":383,"imports":[]},
+{"name":"ciaomiabau","size":874,"imports":[]}
+
+]
+
