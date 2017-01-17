@@ -152,6 +152,14 @@ div.vai-a-spacer{
     height: 60px;
 }
 
+.opuscolo li{
+
+    font-size: 18px;
+    line-height: 1.4em;
+    margin-bottom: 1em;
+
+}
+
 /* Rules for sizing the icon. */
 .material-icons.mdl-18 { font-size: 18px; }
 .material-icons.mdl-24 { font-size: 24px; }
