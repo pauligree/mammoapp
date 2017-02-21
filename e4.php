@@ -45,6 +45,7 @@
     <header class="demo-header mdl-layout__header">
       <div class="mdl-layout__header-row">
         <span class="mdl-layout-title"><img src="images/q.b._Logo_web_orz.png" class="logo-orz-header" alt="q.b. per sapere quanto basta"/></span>
+<span class="titoletto-heding">Screening mammografico</span>
         <div class="mdl-layout-spacer"></div>
         <a href="#" class="mdl-color-text--white open-modal-fonti"><i class="material-icons mdl-24">library_books</i></a>
         <a id="open-tree-sitemap" href="#" class="open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i></a>
@@ -80,6 +81,7 @@
 
     <main class="mdl-layout__content mdl-color--grey-100">
       <div class="mdl-grid demo-content">
+<div class="banner"><img src="images/QB_progress-02-1.jpg"></div>
         <div class="mdl-grid mdl-cell--10-col ">
 
 
@@ -98,12 +100,11 @@
         <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell mdl-cell--12-col mdl-grid">
           <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell--9-col  mdl-grid">
             <h3>Confronto tra i diversi valori di mortalità specifica</h3>
-            <p>La revisione condotta da Euroscreen nel 2012 sugli studi osservazionali stima che, su 1.000 donne di 50 anni che partecipano regolarmente al programma di screening mammografico organizzato, nel corso dei successivi 30 anni circa 8 evitino di morire per tumore al seno. Questo beneficio si può esprimere anche in termini relativi, dicendo che la riduzione della mortalità specifica è del 38%.</p>
-            <p>La revisione di UK Panel del 2012 sugli studi sperimentali, che prende in considerazione tutte le donne invitate che hanno iniziato lo screening tra i 40 e 74 anni, stima una riduzione di mortalità specifica del 20%.</p>
-            <p>La revisione Cochrane su studi sperimentali sempre del 2012 e sempre su tutte le donne invitate tra i 40 e i 74 anni e seguite per 13 anni, stima una riduzione della mortalità specifica del 15%.</p>
-            <p>Le tre stime non si possono paragonare direttamente tra loro, perché sono ricavate da studi diversi, su donne di età diversa, tutte le invitate o solo le partecipanti, seguite per durate diverse, eccetera.</p>
-            <p>Si può dire però che la stima Euroscreen fotografa cosa può aspettarsi una donna che decide di partecipare a uno screening organizzato europeo, in termini di riduzione relativa della mortalità specifica.</p>
-            <p>Le stime di UK Panel e di Cochrane calcolate su tutte le donne invitate e seguite per un arco di tempo relativamente breve, dicono cosa possono aspettarsi di ottenere gli organizzatori di uno screening rivolto a un’ampia fascia di età e seguite per un arco di tempo relativamente breve. La differenza tra gli ultimi due è dovuta soprattutto alla diversa scelta degli studi sperimentali inseriti nella revisione e alla diversa lunghezza dell’osservazione successiva al periodo di screening (<a href="#" class="open-modal-fonti">vedi le fonti</a>).</p>
+
+<p>La revisione di UK Panel del 2012 sugli  studi sperimentali, che prende in considerazione tutte le donne <strong>invitate</strong> che hanno iniziato lo screening tra i 40 e 74 anni, stima una riduzione di mortalità specifica del 20%. La revisione Cochrane su studi sperimentali sempre del 2012 e sempre su tutte le donne <strong>invitate</strong> tra i 40 e i 74 anni e seguite per 13 anni, stima una riduzione della mortalità specifica del 15%. La revisione condotta da Euroscreen nel 2012 sugli studi osservazionali stima che, su 1.000 donne di 50 anni <strong>invitate</strong> al programma di screening mammografico organizzato (tra i 50-70 anni), la riduzione della mortalità specifica è del 25%. Ma Euroscreen, sempre nel 2012, ha fatto una stima anche della riduzione di mortalità per le donne, sempre di 50 anni, che <strong>partecipano</strong> regolarmente al Programma di screening organizzato e l’ha calcolata pari al 38%.</p>
+<p>Le tre revisioni  non si possono paragonare direttamente tra loro, perché sono ricavate da studi diversi, su donne di età diversa, tutte le invitate o solo le <strong>partecipanti</strong>, seguite per durate diverse, eccetera. Si può dire però che la stima di Euroscreen sulle donne partecipanti risponde meglio alla domanda su cosa può aspettarsi una donna che decida di partecipare a uno screening organizzato europeo, in termini di riduzione relativa della mortalità specifica. Le stime di UK Panel e della revisione Cochrane calcolate su tutte le donne invitate e seguite per un arco di tempo relativamente breve, sono basate su studi sperimentali condotti prima dell’avvio dei programmi europei. La differenza tra queste ultime due è dovuta soprattutto alla diversa scelta degli studi sperimentali inseriti nella revisione e alla metodologia di stima statistica (<a href="#" class="open-modal-fonti">vedi le fonti</a>).</p>
+<p>La revisione Cochrane produce diverse stime di riduzione della mortalità specifica, basate su diversi sottogruppi selezionati degli studi sperimentali disponibili. Una di queste produce un risultato pari a zero per la riduzione di mortalità.</p>
+
 
           </div>
         </div>
@@ -114,11 +115,11 @@
 
         <div class="vai-a-spacer">&nbsp;</div>
 
-        <div class="mdl-cell mdl-cell--1-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet">
-          <div class="vai-a mdl-color-text--grey-400">Vai a...<br/><i class="material-icons">subdirectory_arrow_right</i></div>
+        <div class="mdl-cell mdl-cell--2-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet vai-a-container-freccia">
+          <div class="vai-a mdl-color-text--grey-800"><span class="vai-a-arrow-text">Vai a </span><i class="material-icons">keyboard_arrow_right</i></div>
         </div>
 
-        <div class="mdl-shadow--2dp- mdl-cell mdl-cell--11-col mdl-grid">
+        <div class="mdl-shadow--2dp- mdl-cell mdl-cell--10-col mdl-grid vai-a-enevelope">
 
           <div class="vai-a-container">
 
@@ -129,15 +130,24 @@
             <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>
 
             
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>
+            
             
           </div>
 
         </div>
 
       </div>
-    </main>
-  </div>
+          <div id="footer-ho-deciso" class="">
+            <div class="mdl-grid mdl-cell--8-col">
+              <div class="mdl-grid mdl-cell--5-col informata-quanto-basta">Mi sono informata quanto basta!</div>
+              <div class="mdl-grid mdl-cell--3-col informata-quanto-basta">
+                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php">Pronta a scegliere</a>
+              </div>
+            </div>
+          </div>
+
+
+          </main>
   
   
 

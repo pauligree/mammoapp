@@ -45,6 +45,7 @@
     <header class="demo-header mdl-layout__header">
       <div class="mdl-layout__header-row">
         <span class="mdl-layout-title"><img src="images/q.b._Logo_web_orz.png" class="logo-orz-header" alt="q.b. per sapere quanto basta"/></span>
+<span class="titoletto-heding">Screening mammografico</span>
         <div class="mdl-layout-spacer"></div>    
         <a href="#" class="mdl-color-text--white open-modal-fonti"><i class="material-icons mdl-24">library_books</i></a>
         <a id="open-tree-sitemap" href="#" class="open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i></a>
@@ -80,6 +81,7 @@
 
     <main class="mdl-layout__content mdl-color--grey-100">
       <div class="mdl-grid demo-content">
+<div class="banner"><img src="images/QB_progress-02-1.jpg"></div>
         <div class="mdl-grid mdl-cell--10-col ">
 
 
@@ -98,17 +100,17 @@
         <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell mdl-cell--12-col mdl-grid">
           <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell--9-col  mdl-grid">
             <h3>Lo  Screening mammografico organizzato, un programma di qualità</h3>
-            <p>Nel Programma organizzato di screening del seno, tutte le donne nella tua <a href="a5.php">fascia di età</a> sono invitate come te a fare una mammografia gratuita ogni due anni in un Centro del programma, che garantisce un controllo sulla qualità della diagnosi e del trattamento proposto.</p>
-            <p>All’appuntamento un tecnico di radiologia fa due <a href="a6.php">radiografie</a> per ciascun seno da diverse angolazioni. Per fare ciò il seno è compresso tra due piastre, cosa che può causarti   fastidio o dolore;  tuttavia, maggiore è la compressione, meno radiazioni riceverà la donna e più chiara sarà la radiografia. <br />
-            </p>
-            <p>Nei giorni successivi le radiografie sono valutate da due medici radiologi esperti, che leggono circa 5.000 esami l’anno come standard di qualità. <br />
-            </p>
-            <p>Se dall’esame risulta che tutto va bene, riceverai una lettera per posta o via mail.<br />
-              Nel caso ci sia qualcosa da <a href="b4.php">approfondire</a>, invece, verrai contattata per telefono. <br />
-            </p>
-            <p>La qualità dello screening dei centri italiani è valutata all'interno di iniziative nazionali e internazionali (<a href="#" class="open-modal-fonti">vedi le fonti</a>).<br />
-            </p>
-            <p>I dati che ti presentiamo in questo sito si riferiscono al Programma di screening mammografico organizzato. Sulla qualità delle mammografie eseguite al di fuori del programma di screening si può dire poco, perché manca un controllo. </p>
+            
+            
+            <p>Nel Programma organizzato di screening del seno, tutte le donne nella tua <a href="a5.php">fascia di età</a> sono invitate come te a fare con cadenza regolare una mammografia gratuita in un Centro del programma, che garantisce la completa presa in carico del caso e un controllo sulla qualità della diagnosi e del trattamento proposto.</p>
+<p>All’appuntamento un tecnico di radiologia fa due <a href="a6.php">radiografie</a> per ciascun seno da diverse angolazioni. Per fare ciò il seno è compresso tra due piastre, cosa che può causarti fastidio o dolore; tuttavia, maggiore è la compressione, meno radiazioni riceverai e più chiara sarà la radiografia. </p>
+<p>Nei giorni successivi le radiografie sono valutate da due medici radiologi esperti, che leggono circa 5.000 esami l’anno come standard di qualità. </p>
+<p>Se dall’esame risulta che tutto va bene, riceverai una lettera per posta o via mail.</p>
+<p>Nel caso ci sia <a href="b4.php">un dubbio</a>, invece, verrai contattata per telefono. </p>
+<p>La qualità dei Programmi di screening mammografico organizzato presenti in tutta Italia è monitorata e valutata all'interno di iniziative nazionali e internazionali (<a href="#" class="open-modal-fonti">vedi le fonti</a>), mentre sulla qualità delle mammografie eseguite al di fuori dei Programmi di screening si può dire poco, perché manca un controllo sistematico.</p>
+
+
+
           </div>
         </div>
 
@@ -119,11 +121,11 @@
 
         <div class="vai-a-spacer">&nbsp;</div>
 
-        <div class="mdl-cell mdl-cell--1-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet">
-          <div class="vai-a mdl-color-text--grey-400">Vai a...<br/><i class="material-icons">subdirectory_arrow_right</i></div>
+        <div class="mdl-cell mdl-cell--2-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet vai-a-container-freccia">
+          <div class="vai-a mdl-color-text--grey-800"><span class="vai-a-arrow-text">Vai a </span><i class="material-icons">keyboard_arrow_right</i></div>
         </div>
 
-        <div class="mdl-shadow--2dp- mdl-cell mdl-cell--11-col mdl-grid">
+        <div class="mdl-shadow--2dp- mdl-cell mdl-cell--10-col mdl-grid vai-a-enevelope">
 
           <div class="vai-a-container">
 
@@ -133,15 +135,24 @@
             <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-color-text--white" href="b2.php">Come interpretare il risultato della mammografia</a>
             <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>              
 
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>
+            
           </div>
 
         </div>
 
 
       </div>
-    </main>
-  </div>
+    <div id="footer-ho-deciso" class="">
+            <div class="mdl-grid mdl-cell--8-col">
+              <div class="mdl-grid mdl-cell--5-col informata-quanto-basta">Mi sono informata quanto basta!</div>
+              <div class="mdl-grid mdl-cell--3-col informata-quanto-basta">
+                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php">Pronta a scegliere</a>
+              </div>
+            </div>
+          </div>
+
+
+          </main>
 
 
 

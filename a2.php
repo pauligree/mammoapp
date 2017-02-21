@@ -45,6 +45,7 @@
     <header class="demo-header mdl-layout__header">
       <div class="mdl-layout__header-row">
         <span class="mdl-layout-title"><img src="images/q.b._Logo_web_orz.png" class="logo-orz-header" alt="q.b. per sapere quanto basta"/></span>
+<span class="titoletto-heding">Screening mammografico</span>
         <div class="mdl-layout-spacer"></div>
                <a id="open-tree-sitemap" href="#" class="open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i></a>
       </div>
@@ -79,6 +80,7 @@
 
     <main class="mdl-layout__content mdl-color--grey-100">
       <div class="mdl-grid demo-content">
+<div class="banner"><img src="images/QB_progress-02-1.jpg"></div>
         <div class="mdl-grid mdl-cell--10-col ">
 
 
@@ -96,25 +98,26 @@
 
         <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell mdl-cell--12-col mdl-grid">
           <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell--9-col  mdl-grid">
-            <h3>I pro e contro della mammografia di screening</h3>
-            <p>Come ogni intervento medico, la mammografia di screening può dare benefici ma può anche produrre danni.<br />
-              Il <strong>vantaggio principale</strong> è la riduzione della mortalità per tumore al seno nelle donne che partecipano al Programma. <br />
-              Questo vantaggio è facile da capire ma non va frainteso. La mammografia non evita l’insorgenza del tumore al seno, ma permette di trovare tumori in fase iniziale, per i quali le cure sono meno invasive e più efficaci.</p><p>
-              Lo <strong>svantaggio principale</strong> è più difficile da interpretare: consiste nel trattamento inutile, e quindi dannoso (sovratrattamento) di tumori scoperti con lo screening che non si sarebbero mai manifestati (sovradiagnosi). Anche qui non bisogna fraintendere: non si tratta di tumori che a un approfondimento risultano non esistere o non essere maligni, detti “falsi positivi”, ma di tumori maligni che però non sono destinati a crescere o dare metastasi.</p><p>Purtroppo a oggi è impossibile prevedere se un particolare tumore è del tipo innocuo o meno, quindi vengono trattati tutti, e nessuna donna saprà mai quale era il suo caso.<br />
-              E’ è però possibile fare una <a href="a3.php">stima delle vite salvate e dei tumori diagnosticati in eccesso</a> per effetto dello screening mammografico.
-            </p>
-            <p>La partecipazione allo screening produce poi altri benefici o danni, che meritano di essere considerati:<br />
-            
-              <ul>
-                <li><a href="c1.php">trattamenti meno invasivi</a></li>
-                <li><a href="b2.php">falsi positivi</a></li>
-                <li><a href="b2.php">falsi negativi</a></li>
-                <li><a href="a6.php">il danno da raggi</a></li>
-                <li><a href="b1.php">il disagio dell’esame</a></li>
-              </ul>
-              </p>
+            <h3>I pro e contro della mammografia di screening</h3>              
+              <p>Come ogni intervento medico, la mammografia di screening può dare benefici ma può anche produrre danni.</p>
+<p>La mammografia non evita la comparsa del tumore al seno, ma permette di trovare tumori in fase iniziale per i quali le cure sono meno invasive e più efficaci.</p>
+<p>Il <strong>vantaggio principale</strong> è la riduzione della mortalità per tumore al seno nelle donne che partecipano al Programma di screening organizzato.</p>
+<p>Lo <strong>svantaggio principale</strong> è più difficile da cogliere: consiste nel trattamento inutile, e quindi dannoso (sovratrattamento) di tumori scoperti con lo screening che non si sarebbero mai manifestati nel corso della vita (sovradiagnosi). Si tratta di tumori maligni che però non crescono o lo fanno molto lentamente e non danno metastasi. Purtroppo a oggi è impossibile distinguere se un particolare tumore è di questo tipo, quindi vengono trattati tutti, e nessuna donna saprà mai quale era il suo caso. Si può solo fare una stima delle vite salvate dai Programmi di screening mammografico e dei tumori diagnosticati in eccesso.</p>
+<p>La partecipazione allo screening produce poi altri benefici o danni, che meritano di essere considerati:<br />
+<ul>
+<li><a href="c1.php">trattamenti meno invasivi</a></li>
+<li><a href="b2.php">falsi positivi</a></li>
+<li><a href="b2.php">falsi negativi</a></li>
+<li><a href="a6.php">il danno da raggi</a></li>
+<li><a href="b1.php">il disagio dell’esame</a></li>
+ </ul>
+ </p>
             </div>
           </div>
+
+
+
+
 
 
           <!--                       -->
@@ -123,11 +126,11 @@
 
           <div class="vai-a-spacer">&nbsp;</div>
 
-          <div class="mdl-cell mdl-cell--1-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet">
-            <div class="vai-a mdl-color-text--grey-400">Vai a...<br/><i class="material-icons">subdirectory_arrow_right</i></div>
+          <div class="mdl-cell mdl-cell--2-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet vai-a-container-freccia">
+            <div class="vai-a mdl-color-text--grey-800"><span class="vai-a-arrow-text">Vai a </span><i class="material-icons">keyboard_arrow_right</i></div>
           </div>
 
-          <div class="mdl-shadow--2dp- mdl-cell mdl-cell--11-col mdl-grid">
+          <div class="mdl-shadow--2dp- mdl-cell mdl-cell--10-col mdl-grid vai-a-enevelope">
 
             <div class="vai-a-container">
             
@@ -140,7 +143,7 @@
               <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>
 
               
-              <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>
+              
 
 
 
@@ -151,8 +154,17 @@
 
 
         </div>
-      </main>
-    </div>
+          <div id="footer-ho-deciso" class="">
+            <div class="mdl-grid mdl-cell--8-col">
+              <div class="mdl-grid mdl-cell--5-col informata-quanto-basta">Mi sono informata quanto basta!</div>
+              <div class="mdl-grid mdl-cell--3-col informata-quanto-basta">
+                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php">Pronta a scegliere</a>
+              </div>
+            </div>
+          </div>
+
+
+          </main>
      
        
 

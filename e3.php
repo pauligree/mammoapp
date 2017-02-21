@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="description" content="Studi sperimentali, osservazionali e revisioni">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <title>Come si misura la riduzione di mortalità specifica e la sovradiagnosi</title>
+  <title>Come si misurano la riduzione di mortalità specifica e la sovradiagnosi</title>
 
   <!-- Add to homescreen for Chrome on Android -->
   <meta name="mobile-web-app-capable" content="yes">
@@ -45,6 +45,7 @@
     <header class="demo-header mdl-layout__header">
       <div class="mdl-layout__header-row">
         <span class="mdl-layout-title"><img src="images/q.b._Logo_web_orz.png" class="logo-orz-header" alt="q.b. per sapere quanto basta"/></span>
+<span class="titoletto-heding">Screening mammografico</span>
         <div class="mdl-layout-spacer"></div>
         <a href="#" class="mdl-color-text--white open-modal-fonti"><i class="material-icons mdl-24">library_books</i></a>
         <a id="open-tree-sitemap" href="#" class="open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i></a>
@@ -79,6 +80,7 @@
 
     <main class="mdl-layout__content mdl-color--grey-100">
       <div class="mdl-grid demo-content">
+<div class="banner"><img src="images/QB_progress-02-1.jpg"></div>
         <div class="mdl-grid mdl-cell--10-col ">
 
 
@@ -86,7 +88,7 @@
 
 
           <div class="demo-crumbs mdl-color-text--grey-500">
-            <a href="./">Inizio</a> | <a class="indietro" href="#">Indietro</a> &gt; Come si misura la riduzione di mortalità specifica e la sovradiagnosi
+            <a href="./">Inizio</a> | <a class="indietro" href="#">Indietro</a> &gt; Come si misurano la riduzione di mortalità specifica e la sovradiagnosi
           </div>
         </div>
 
@@ -96,17 +98,15 @@
 
         <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell mdl-cell--12-col mdl-grid">
           <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell--9-col  mdl-grid">
-            <h3> Come si misura la riduzione di mortalità specifica e la sovradiagnosi</h3>
-            
-            
-            <p>Per valutare se lo screening è utile e vantaggioso si utilizzano di preferenza gli studi sperimentali e osservazionali.</p>
-            <p>Gli <strong>studi sperimentali</strong> prendono un certo numero di donne e le dividono in due gruppi: quello delle donne invitate allo screening periodico e quello di controllo di donne non invitate; ciascuna donna è assegnata casualmente all’ uno o all’altro gruppo. A distanza di tempo si misurano i valori di mortalità e frequenza del tumore al seno nelle donne dei due gruppi, e li si confrontano tra loro.</p>
-            <p>Gli studi sperimentali sullo screening mammografico (8 studi clinici tra il 1963 e il 1991) hanno complessivamente valutato donne nella fascia tra i 40 e i 74 anni all’avvio degli studi.</p> 
-            <p>Gli <strong>studi osservazionali</strong> che hanno valutato i programmi di screening europei si riferiscono a donne che hanno avuto il primo invito, nella maggior parte, tra i 50 ei 74 anni. </p>
-            <p>Per avere un quadro integrato sul tema i ricercatori ricorrono alle <strong>revisioni</strong> degli studi: nel caso dello screening mammografico diversi gruppi di ricerca hanno condotto una revisione adottando una propria metodologia, e sono arrivati a risultati molto discordanti.</p>
-            <p>Le principali revisioni qui considerate (perché condotte dai gruppi e dagli enti di ricerca più accreditati in questo campo) sono state fatte da: Cochrane Collaboration che ha considerato solo gli studi sperimentali (revisione sistematica aggiornata al 2013); IARC-OMS che ha considerato studi sperimentali e osservazionali (2002 e 2015); Independent UK Panel che ha considerato solo studi sperimentali (2012) e Gruppo EUROSCREEN che ha considerato solo studi osservazionali (2012) (<a href="#" class="open-modal-fonti">vedi le fonti</a>).</p>
-            <p>Per conoscere i risultati delle revisioni sui valori di mortalità <a href="e4.php">clicca qui</a>; quelli sui valori di sovradiagnosi <a href="e5.php">clicca qui</a>.</p>
-          </p>
+            <h3> Come si misurano la riduzione di mortalità specifica e la sovradiagnosi</h3>
+          
+          <p>La medicina di oggi basa le proprie conoscenze sui risultati di studi, <strong>sperimentali</strong> o <strong>osservazionali</strong> svolti su un campione, cioè su un sottoinsieme della popolazione. Questo modo di procedere più rigoroso rende minima la disparità di opinioni tra medici, ma non la elimina del tutto. Gli studi, infatti, non possono fornire misure precise, ma solo un intervallo di valori che si avvicinano con un’alta probabilità a quelli reali (come i risultati degli exit poll delle elezioni, per intenderci). </p>
+<p>Anche nel caso dello screening mammografico si sono utilizzati di preferenza gli studi sperimentali e osservazionali. Gli studi sperimentali hanno seguito nel tempo un certo numero di donne dopo averle divise in due gruppi: quello delle donne invitate allo screening periodico e quello di controllo di donne non invitate; ciascuna donna è stata assegnata casualmente all’uno o all’altro gruppo. A distanza di tempo si sono misurati i valori di mortalità e frequenza del tumore al seno nelle donne dei due gruppi, e li si sono confrontati tra loro.  Gli studi sperimentali sullo screening mammografico (8 studi clinici tra il 1963 e il 1991) hanno complessivamente valutato donne nella fascia tra i 40 e i 74 anni all’avvio degli studi. Gli studi osservazionali che hanno valutato i programmi di screening europei si riferiscono a donne che hanno avuto il primo invito, nella maggior parte, tra i 50 ei 74 anni (di solito tra il 1995 e l’inizio degli anni 2000).</p>
+<p>Per avere un quadro più attendibile, poi, ci si basa sui risultati di più studi (revisioni), che vanno messi insieme nonostante abbiano caratteristiche differenti. </ br> Per fare ciò bisogna trovare un buon metodo che permetta di decidere quali studi includere (per esempio solo gli studi sperimentali, solo quelli osservazionali o entrambi) e come tener conto della loro diversa qualità. Nel caso dello screening mammografico diversi gruppi di ricerca hanno condotto una revisione adottando un metodo diverso, e sono arrivati a risultati molto discordanti. </p>
+<p>Le principali revisioni qui considerate (perché condotte dai gruppi e dagli enti di ricerca più accreditati in questo campo) sono state fatte da: Cochrane Collaboration che ha considerato solo gli studi sperimentali (revisione sistematica aggiornata al 2013); IARC-OMS che ha considerato studi sperimentali e osservazionali (2002 e 2015); Independent UK Panel che ha considerato solo studi sperimentali (2012) e Gruppo EUROSCREEN che ha considerato solo studi osservazionali (2012) (<a href="#" class="open-modal-fonti">vedi le fonti</a>). I valori di riduzione della mortalità per tumore al seno vanno dal 15 al 38%, quelli di sovradiagnosi dal 5 al 30%.</p>
+<p>Per approfondire i risultati delle revisioni sui valori di mortalità <a href="e4.php">clicca qui</a>; quelli sui valori di sovradiagnosi <a href="e5.php">clicca qui</a>.</p>
+
+
         </div>
       </div>
 
@@ -117,11 +117,11 @@
 
       <div class="vai-a-spacer">&nbsp;</div>
 
-      <div class="mdl-cell mdl-cell--1-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet">
-        <div class="vai-a mdl-color-text--grey-400">Vai a...<br/><i class="material-icons">subdirectory_arrow_right</i></div>
+      <div class="mdl-cell mdl-cell--2-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet vai-a-container-freccia">
+        <div class="vai-a mdl-color-text--grey-800"><span class="vai-a-arrow-text">Vai a </span><i class="material-icons">keyboard_arrow_right</i></div>
       </div>
 
-      <div class="mdl-shadow--2dp- mdl-cell mdl-cell--11-col mdl-grid">
+      <div class="mdl-shadow--2dp- mdl-cell mdl-cell--10-col mdl-grid vai-a-enevelope">
 
         <div class="vai-a-container">
 
@@ -135,15 +135,24 @@
           <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>
 
 
-          <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>
+          
 
         </div>
 
       </div>
 
     </div>
-  </main>
-</div>
+          <div id="footer-ho-deciso" class="">
+            <div class="mdl-grid mdl-cell--8-col">
+              <div class="mdl-grid mdl-cell--5-col informata-quanto-basta">Mi sono informata quanto basta!</div>
+              <div class="mdl-grid mdl-cell--3-col informata-quanto-basta">
+                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php">Pronta a scegliere</a>
+              </div>
+            </div>
+          </div>
+
+
+          </main>
 
 
 
@@ -158,7 +167,13 @@
 <div class="mdl-tooltip mdl-tooltip--left" data-mdl-for="fonti">Approfondimenti</div> 
 
 
-<!--    MODALS      -->
+
+  <!--    MODALS      -->
+  <!--    mettere tutti i modal dentro il div hide-modal per rimuoverli dalla visualizzazione  -->
+
+  <div class="hide-modal">
+
+    <?php include'includes/common_modals.php';?>
 
 
 <div id="modal-fonti" class="mdl-dialog mdl-cell--11-col mdl-cell--11-col-tablet mdl-cell--11-col-desktop">
@@ -172,15 +187,7 @@
       <li>G&oslash;tzsche PC, J&oslash;rgensen KJ. Screening for breast cancer with mammography. Cochrane Database Syst Rev 2013;6:CD001877.</li>
     </ul></p>
   </div>
-
-
-
-  <!--    MODALS      -->
-  <!--    mettere tutti i modal dentro il div hide-modal per rimuoverli dalla visualizzazione  -->
-
-  <div class="hide-modal">
-
-    <?php include'includes/common_modals.php';?>
+  </div>
 
     <div id="modal-tabella" class="mdl-dialog mdl-cell--9-col mdl-cell--9-col-tablet mdl-cell--9-col-desktop">
       <span class="mdl-dialog__title"><h4>I punti controversi in sintesi</h4></span>

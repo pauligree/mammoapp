@@ -45,6 +45,7 @@
     <header class="demo-header mdl-layout__header">
       <div class="mdl-layout__header-row">
         <span class="mdl-layout-title"><img src="images/q.b._Logo_web_orz.png" class="logo-orz-header" alt="q.b. per sapere quanto basta"/></span>
+<span class="titoletto-heding">Screening mammografico</span>
         <div class="mdl-layout-spacer"></div>
         <a href="#" class="mdl-color-text--white open-modal-fonti"><i class="material-icons mdl-24">library_books</i></a>
         <a id="open-tree-sitemap" href="#" class="open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i></a>
@@ -79,6 +80,7 @@
 
     <main class="mdl-layout__content mdl-color--grey-100">
       <div class="mdl-grid demo-content">
+<div class="banner"><img src="images/QB_progress-02-1.jpg"></div>
         <div class="mdl-grid mdl-cell--10-col ">
 
 
@@ -137,6 +139,47 @@
                 <div>
                   <p>&nbsp;</p>
                   <p><a href="#" class="open-modal-fonti">Clicca qui</a> per consultare le fonti.</p>
+                  
+                   <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+                  <thead>
+                    <tr class="testata-tabella">
+                      <th class="mdl-data-table__cell--non-numeric" style="font-weight: normal; font-size: 1.2em;">Comportamenti da evitare per diminuire la probabilità di ammalarsi di tumore al seno</th>
+                      <th class="mdl-data-table__cell--non-numeric" style="font-weight: normal; font-size: 1.2em;">Comportamenti da seguire per diminuire la probabilità di ammalarsi di tumore al seno.
+</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td class="mdl-data-table__cell--non-numeric">Essere in forte sovrappeso (<strong>BMI <i id="tooltip-imc" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large" data-mdl-for="tooltip-imc">(IMC o BMI, Body Mass Index) Si calcola dividendo il peso corporeo (in kg)<br/>per la statura (in metri) elevata al quadrato e si usa per stabilire il sovrappeso<br/>(&ge;25 kg/m&sup2;) o l&rsquo;obesit&agrave; (&ge;30 kg/m&sup2;).</span>&gt;28) in menopausa<sup><small>1</small></sup><br><br>
+                      Soffrire di <strong>sindrome metabolica <i id="tooltip-sindrome-met" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large" data-mdl-for="tooltip-sindrome-met">Condizione patologica caratterizzata dalla presenza di almeno 3 tra le seguenti alterazioni: accumulo di grasso a livello dell’addome, obesità, aumento dei trigliceridi nel sangue, riduzione del colesterolo HDL nel sangue, aumento della pressione arteriosa, aumento della glicemia fino alla presenza di diabete di tipo 2 (diabete non insulino-dipendente). Le persone con sindrome metabolica hanno un aumento del rischio di malattie cardiovascolari e di alcune forme tumorali.
+                      182              </span> dopo la menopausa<sup><small>2</small></sup><br><br>
+                      
+                      Bere pi&ugrave; di una <strong>dose di alcol <i id="tooltip-dose-alcol" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large" data-mdl-for="tooltip-dose-alcol">Il consumo di alcol viene abitualmente espresso facendo riferimento all’unità alcolica o “bicchier standard” che è uguale a circa 10-12 grammi di alcol puro e corrisponde a un bicchiere di vino (12°, 125 ml), una lattina di birra (4,5°, 330 ml), un aperitivo (18°, 80 ml), un bicchierino di superalcolico.</span> al giorno (il rischio &egrave; massimo se lo si fa durante l&rsquo;adolescenza)<sup><small>3</small></sup><br><br>
+                      Consumare molta carne rossa (&ge;3 volte la settimana)<sup><small>4</small></sup><br><br>
+                      Fumare (il rischio &egrave; massimo se lo si fa durante l&rsquo;adolescenza)<sup><small>5</small></sup><br><br>
+                      Usare la TOS (terapia ormonale sostitutiva) in menopausa<sup><small>6</small></sup><br><br>
+                      
+                      <a href="#" class="open-modal-fonti">Clicca qui</a> per consultare le fonti.
+                      
+</td>
+                      <td class="mdl-data-table__cell--non-numeric">
+                       
+                        
+                        Mantenere il peso ideale (<strong>BMI <i id="tooltip-imc" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large" data-mdl-for="tooltip-imc">(IMC o BMI, Body Mass Index) Si calcola dividendo il peso corporeo (in kg)<br/>per la statura (in metri) elevata al quadrato e si usa per stabilire il sovrappeso<br/>(&ge;25 kg/m&sup2;) o l&rsquo;obesit&agrave; (&ge;30 kg/m&sup2;).</span>&lt;24,9 kg/m2) in combinazione con un&rsquo;alimentazione con prevalenza di cibi vegetali (cereali non raffinati, legumi, verdure non amidacee e frutta) e con un consumo di alcol che non supera 1 dose al giorno<sup><small>1</small></sup><br><br>
+                        Seguire una <strong>dieta mediterranea <i id="tooltip-dm" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large" data-mdl-for="tooltip-dm">Si tratta, pi&ugrave; che di uno specifico programma dietetico, di un modello nutrizionale equilibrato che si rif&agrave; alle abitudini alimentari seguite dai popoli della regione mediterranea. E&rsquo; caratterizzata dall&rsquo;assunzione di frutta, verdura, cereali integrali, pesce, legumi, noci, olio d&rsquo;oliva e modiche quantit&agrave; di vino.</span>, con supplemento di olio extravergine d&rsquo;oliva<sup><small>2</small></sup><br><br>
+                        Consumare frutta e verdura durante l&rsquo;adolescenza (&ge;3 porzioni al giorno)<sup><small>3</small></sup><br><br>
+                        
+                        
+                        Fare attivit&agrave; fisica (almeno 150 minuti alla settimana di attivit&agrave; fisica moderata)<sup><small>4</small></sup><br><br>
+                        Consumare fibra alimentare (circa 30 g al giorno, la protezione &egrave; massima se lo si fa durante l&rsquo;adolescenza)<sup><small>5</small></sup><br><br>
+                        Seguire una <strong>dieta vegana <i id="tooltip-dv" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large mdl-tooltip--top" data-mdl-for="tooltip-dv">Modello nutrizionale che esclude tutti gli alimenti di origine animale, compresi uova e latte, a favore di alimenti provenienti esclusivamente dal regno vegetale. Data la estrema selettività rispetto ad altri modelli vegetariani, non è bilanciata e comporta il rischio di carenze di vitamine (come la vitamina B12) e di sali minerali (come il ferro).</span> piuttosto che un&rsquo;alimentazione completa<sup><small>6</small></sup><br><br>Allattare al seno<sup><small>7</small></sup><br><br>
+                        <a href="#" class="open-modal-fonti">Clicca qui</a> per consultare le fonti.
+                        
+</td>
+                      </tr>
+                      
+                    </tbody>
+                  </table>
                 </div>
               </div>
             </div>
@@ -147,26 +190,35 @@
 
             <div class="vai-a-spacer">&nbsp;</div>
 
-            <div class="mdl-cell mdl-cell--1-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet">
-              <div class="vai-a mdl-color-text--grey-400">Vai a...<br/><i class="material-icons">subdirectory_arrow_right</i></div>
+            <div class="mdl-cell mdl-cell--2-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet vai-a-container-freccia">
+              <div class="vai-a mdl-color-text--grey-800"><span class="vai-a-arrow-text">Vai a </span><i class="material-icons">keyboard_arrow_right</i></div>
             </div>
 
-            <div class="mdl-shadow--2dp- mdl-cell mdl-cell--11-col mdl-grid">
+            <div class="mdl-shadow--2dp- mdl-cell mdl-cell--10-col mdl-grid vai-a-enevelope">
 
               <div class="vai-a-container">
 
                 <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>
 
 
-                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>
+                
 
               </div>
 
             </div>
 
           </div>
-        </main>
-      </div>
+          <div id="footer-ho-deciso" class="">
+            <div class="mdl-grid mdl-cell--8-col">
+              <div class="mdl-grid mdl-cell--5-col informata-quanto-basta">Mi sono informata quanto basta!</div>
+              <div class="mdl-grid mdl-cell--3-col informata-quanto-basta">
+                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php">Pronta a scegliere</a>
+              </div>
+            </div>
+          </div>
+
+
+          </main>
 
 
 

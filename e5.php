@@ -45,6 +45,7 @@
     <header class="demo-header mdl-layout__header">
       <div class="mdl-layout__header-row">
         <span class="mdl-layout-title"><img src="images/q.b._Logo_web_orz.png" class="logo-orz-header" alt="q.b. per sapere quanto basta"/></span>
+<span class="titoletto-heding">Screening mammografico</span>
         <div class="mdl-layout-spacer"></div>
         <a href="#" class="mdl-color-text--white open-modal-fonti"><i class="material-icons mdl-24">library_books</i></a>
         <a id="open-tree-sitemap" href="#" class="open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i></a>
@@ -80,6 +81,7 @@
 
     <main class="mdl-layout__content mdl-color--grey-100">
       <div class="mdl-grid demo-content">
+<div class="banner"><img src="images/QB_progress-02-1.jpg"></div>
         <div class="mdl-grid mdl-cell--10-col ">
 
 
@@ -97,16 +99,14 @@
 
         <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell mdl-cell--12-col mdl-grid">
           <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell--9-col  mdl-grid">
-            <h3>Confronto tra i diversi valori di sovradiagnosi</h3>
-            <p>La revisione condotta da Euroscreen nel 2012 sugli studi osservazionali stima che, su 1.000 donne di 50 anni che iniziano a partecipare regolarmente al programma di screening mammografico organizzato, nel corso dei successivi 30 anni circa 4 ricevano una sovradiagnosi e siano trattate inutilmente.</p>
-            <p>Questo danno si può esprimere anche in termini relativi e risulta pari a 4,7% (misura A). Questa stima risponde alla domanda, posta da una prospettiva generale di popolazione: “Qual è la proporzione di donne che ricevono una sovradiagnosi per effetto del programma di screening, sul totale delle donne che ricevono una diagnosi di tumore al seno tra 50 e 80 anni”.</p>
-            <p>La misura relativa della sovradiagnosi si può esprimere anche in un altro modo, mettendo al denominatore solo i casi di tumore diagnosticati durante lo screening (tra 50 e 69 anni) e si riferisce solo a chi ha corso questo rischio, cioè ha avuto un tumore trovato grazie al programma di screening: questa misura risulta più alta, ma il numero di tumori sovradiagnosticati è lo stesso (cioè 4). Questa seconda misura risponde alla domanda, da una prospettiva individuale: “Se sono invitata a un programma di screening, partecipo e ricevo una diagnosi di tumore durante lo screening, qual è la probabilità di sovradiagnosi?”. La stima di questa probabilità secondo Euroscreen è 6,5% (misura B).
-              Le diverse misure usate rendono difficile confrontare le stime di sovradiagnosi compiute nelle diverse revisioni degli studi. In particolare, in molti casi ci si riferisce a tutte le donne invitate (quindi anche a quelle che non hanno partecipato allo screening), in altri casi solo a chi ha partecipato.</p>
-
-              <p>Nella revisione di UK Panel del 2012, su 3 studi sperimentali, le stime di sovradiagnosi sono 11% quando sono espresse come proporzione dei tumori diagnosticati nel gruppo di donne invitate allo screening nel lungo periodo (misura A), e 19% quando sono espresse come proporzione solo dei tumori diagnosticati durante il periodo di screening attivo (misura B).</p>
-              <p>Nella revisione Cochrane (aggiornamento del 2013), su diversi studi sperimentali (età 40-74), è valutato l’eccesso di trattamenti (mastectomie e interventi conservativi) e da questo si deduce una  stima di sovradiagnosi del 30% circa, avendo come denominatore tutti i tumori diagnosticati nel gruppo di controllo alla fine del follow up. Questa valutazione è complicata dal fatto che in alcuni studi, il gruppo di controllo dopo qualche anno è stato invitato allo screening.</p>
-              <p>Le tre stime (Euroscreen, Cochrane review, UK Panel) non si possono paragonare direttamente tra loro, perché sono ricavate da studi diversi, su donne di età diversa, tutte le invitate o solo le partecipanti, seguite per durate diverse, eccetera.
-                La grossa differenza tra le ultime due stime (Cochrane review, UK Panel) è dovuta soprattutto alla diversa scelta degli studi sperimentali inseriti nelle revisioni e alla diversa lunghezza dell’osservazione successiva al periodo di screening (<a href="#" class="open-modal-fonti">vedi le fonti</a>).</p>
+            <h3>Confronto tra i diversi valori di sovradiagnosi</h3>                
+                
+               <p> La revisione condotta da Euroscreen nel 2012 sugli studi osservazionali stima che, su 1.000 donne di 50 anni che iniziano a partecipare regolarmente al programma di screening mammografico organizzato, nel corso dei successivi 30 anni verranno diagnosticati <strong>71</strong> tumori maligni del seno e che per <strong>circa 4</strong> di essi si tratterà di sovradiagnosi e saranno quindi  trattate inutilmente. Questa stima risponde alla domanda, posta da una prospettiva generale di popolazione: “Qual è la proporzione di donne che ricevono una sovradiagnosi per effetto del programma di screening, sul totale delle donne che ricevono una diagnosi di tumore al seno tra 50 e 80 anni”. Questo danno in termini relativi risulta pari a 4,7% (<strong>misura A</strong>).</p>
+<p>La misura della sovradiagnosi si può esprimere anche in un altro modo, mettendo al denominatore solo i tumori maligni del seno diagnosticati solo durante gli anni dello screening (tra i 50 e 69 anni, sono circa 40 su 71), in pratica chi  ha avuto un tumore trovato grazie al programma di screening:  il numero di tumori sovradiagnosticati è lo stesso (cioè 4). Questa seconda misura risponde alla domanda, da una prospettiva individuale: “<strong>Se sono invitata a un programma di screening e ricevo una diagnosi di tumore durante lo screening, qual è la probabilità che si tratti di una sovradiagnosi?</strong>”. La stima di questa probabilità secondo Euroscreen è <strong>10%</strong> (<strong>misura B</strong>). </p>
+<p>Le diverse misure usate rendono difficile confrontare le stime di sovradiagnosi compiute nelle diverse revisioni degli studi. In particolare, in molti casi ci si riferisce a tutte le donne invitate (quindi anche a quelle che non hanno partecipato allo screening), in altri casi solo a chi ha partecipato.</p>
+<p>Nella revisione di UK Panel del 2012, basata su 3 studi sperimentali, le stime di sovradiagnosi sono l’11% quando sono espresse come proporzione dei tumori diagnosticati nel gruppo di donne invitate allo screening (misura A), e 19% quando sono espresse come proporzione solo dei tumori diagnosticati durante il periodo di screening attivo (misura B).</p>
+<p>Nella revisione Cochrane (aggiornamento del 2013), su diversi studi sperimentali (età 40-74), è valutato l’eccesso di trattamenti (mastectomie e interventi conservativi) e da questo si deduce una stima di sovradiagnosi del 30% circa, avendo come denominatore tutti i tumori diagnosticati nel gruppo di controllo alla fine del follow up. Questa valutazione è complicata dal fatto che in alcuni studi, il gruppo di controllo dopo qualche anno è stato invitato allo screening.</p>
+<p>Le tre stime (Euroscreen, Cochrane review, UK Panel) non si possono paragonare direttamente tra loro, perché sono ricavate da studi diversi, su donne di età diversa, tutte le invitate o solo le partecipanti, seguite per durate diverse, eccetera. La grossa differenza tra le ultime due stime (Cochrane review, UK Panel) è dovuta soprattutto alla diversa scelta degli studi sperimentali inseriti nelle revisioni (<a href="#" class="open-modal-fonti">vedi le fonti</a>).</p>
 
               </div>
             </div>
@@ -118,11 +118,11 @@
 
             <div class="vai-a-spacer">&nbsp;</div>
 
-            <div class="mdl-cell mdl-cell--1-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet">
-              <div class="vai-a mdl-color-text--grey-400">Vai a...<br/><i class="material-icons">subdirectory_arrow_right</i></div>
+            <div class="mdl-cell mdl-cell--2-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet vai-a-container-freccia">
+              <div class="vai-a mdl-color-text--grey-800"><span class="vai-a-arrow-text">Vai a </span><i class="material-icons">keyboard_arrow_right</i></div>
             </div>
 
-            <div class="mdl-shadow--2dp- mdl-cell mdl-cell--11-col mdl-grid">
+            <div class="mdl-shadow--2dp- mdl-cell mdl-cell--10-col mdl-grid vai-a-enevelope">
 
               <div class="vai-a-container">
 
@@ -134,15 +134,24 @@
                 <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>
 
 
-                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>
+                
 
               </div>
 
             </div>
 
           </div>
-        </main>
-      </div>
+          <div id="footer-ho-deciso" class="">
+            <div class="mdl-grid mdl-cell--8-col">
+              <div class="mdl-grid mdl-cell--5-col informata-quanto-basta">Mi sono informata quanto basta!</div>
+              <div class="mdl-grid mdl-cell--3-col informata-quanto-basta">
+                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php">Pronta a scegliere</a>
+              </div>
+            </div>
+          </div>
+
+
+          </main>
 
 
 

@@ -47,6 +47,7 @@
     <header class="demo-header mdl-layout__header">
       <div class="mdl-layout__header-row">
         <span class="mdl-layout-title"><img src="images/q.b._Logo_web_orz.png" class="logo-orz-header" alt="q.b. per sapere quanto basta"/></span>
+<span class="titoletto-heding">Screening mammografico</span>
         <div class="mdl-layout-spacer"></div>
                <a id="open-tree-sitemap" href="#" class="open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i></a>
       </div>
@@ -81,6 +82,7 @@
 
     <main class="mdl-layout__content mdl-color--grey-100">
       <div class="mdl-grid demo-content">
+<div class="banner"><img src="images/QB_progress-02-1.jpg"></div>
         <div class="mdl-grid mdl-cell--10-col ">
 
 
@@ -99,10 +101,13 @@
         <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell mdl-cell--12-col mdl-grid">
           <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell--9-col  mdl-grid">
             <h3>Come interpretare il risultato della mammografia</h3>
-            <p>Per la maggior parte delle donne non risulta nulla di anormale (esame con esito negativo). Un esito negativo è rassicurante, ma non permette di escludere del tutto il prossimo sviluppo di un tumore. Pu&ograve; infatti succedere, nei cosiddetti &ldquo;<strong>falsi negativi</strong>&rdquo;, che il tumore sfugga all&rsquo;osservazione (per esempio nei casi di difficile lettura della lastra, come quando c&rsquo;&egrave; una <a href="b5.php">mammella densa</a>) o che si sviluppi nell&rsquo;intervallo che passa tra una mammografia di screening e la successiva. Questi ultimi casi, pochi ma possibili, sono chiamati anche &ldquo;tumori di intervallo&rdquo;.</p>
-            <p>Perci&ograve; rivolgiti al medico se, tra un esame e il successivo, noti qualche trasformazione del seno, come: noduli palpabili, deformazione o indurimenti della pelle, retrazioni o sanguinamento dal capezzolo.</p>
-            <p>Un risultato &ldquo;positivo&rdquo; vuol dire che sono state viste immagini - come noduli, masse, calcificazioni o altro - che potrebbero indicare la presenza di un tumore e che devono essere indagate con <a href="b4.php">esami di approfondimento</a>. Ci&ograve; genera ansia e preoccupazione, ma non significa che ci sia un tumore maligno.</p>
-            <p>Ci sono casi in cui il sospetto di tumore non &egrave; confermato dagli esami di approfondimento: questi sono chiamati &ldquo;<strong>falsi positivi</strong>&rdquo;.</p>
+            
+            <p>Per la maggior parte delle donne l’esame risulta normale e non si trova nulla (esito negativo). Un esito negativo è rassicurante, ma non permette di escludere del tutto il prossimo sviluppo di un tumore. In rari casi (i cosiddetti “<strong>falsi negativi</strong>”), il tumore può sfuggire all’osservazione (per esempio nei casi di difficile lettura della lastra, come quando c’è una <a href="b5.php">mammella densa</a>) o può svilupparsi nell’intervallo tra una mammografia di screening e la successiva: in quest’ultimo caso si parla di “tumori di intervallo”.</p>
+<p>Perciò rivolgiti al medico se, tra un esame e il successivo, noti qualche trasformazione del seno, come: noduli palpabili, deformazione o indurimenti della pelle, retrazioni o sanguinamento dal capezzolo.</p>
+<p>Un risultato dubbio o “positivo alla mammografia” vuol dire che sono state viste immagini - come noduli, masse, calcificazioni o altro - che potrebbero indicare la presenza di un tumore e che devono essere indagate con <a href="b4.php">esami di approfondimento</a>. Ciò genera ansia e preoccupazione, ma non significa che ci sia un tumore maligno.</p>
+<p>Se il sospetto di tumore non è confermato dagli esami di approfondimento si parla di “<strong>falsi positivi</strong>”.</p>
+
+
           </div>
         </div>
 
@@ -113,11 +118,11 @@
 
           <div class="vai-a-spacer">&nbsp;</div>
 
-          <div class="mdl-cell mdl-cell--1-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet">
-            <div class="vai-a mdl-color-text--grey-400">Vai a...<br/><i class="material-icons">subdirectory_arrow_right</i></div>
+          <div class="mdl-cell mdl-cell--2-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet vai-a-container-freccia">
+            <div class="vai-a mdl-color-text--grey-800"><span class="vai-a-arrow-text">Vai a </span><i class="material-icons">keyboard_arrow_right</i></div>
           </div>
 
-          <div class="mdl-shadow--2dp- mdl-cell mdl-cell--11-col mdl-grid">
+          <div class="mdl-shadow--2dp- mdl-cell mdl-cell--10-col mdl-grid vai-a-enevelope">
 
             <div class="vai-a-container">
 
@@ -126,14 +131,23 @@
               <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>
 
               
-              <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>     
+                   
             </div>
 
           </div>
 
       </div>
-    </main>
-  </div>
+          <div id="footer-ho-deciso" class="">
+            <div class="mdl-grid mdl-cell--8-col">
+              <div class="mdl-grid mdl-cell--5-col informata-quanto-basta">Mi sono informata quanto basta!</div>
+              <div class="mdl-grid mdl-cell--3-col informata-quanto-basta">
+                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php">Pronta a scegliere</a>
+              </div>
+            </div>
+          </div>
+
+
+          </main>
    
    
 

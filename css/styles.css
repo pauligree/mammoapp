@@ -25,7 +25,7 @@
 }
 
 h1,h2,h3,h4,h5,h6 {
-  color: #ff6e40;
+  color: #d66c83;
 }
 
 h3, h4 {
@@ -39,6 +39,15 @@ h3 {
 img {
   max-width: 100%;
   height: auto;
+}
+
+.banner {
+    margin: -20px -20px 20px;
+}
+
+.immagine {
+    margin-bottom: 3em;
+    box-shadow: 0 0 6px #c4c4c4;
 }
 
 p {
@@ -55,6 +64,7 @@ p {
 
 a {
   text-decoration: none;
+  color: #d1647b;
 }
 
 h6, p, .mdl-button {
@@ -70,12 +80,12 @@ h3, h4 {
 }
 
 p::first-letter {
-  color: #ff5252;
+  color: #d1647b;
   font-size: x-large;
 }
 
 main {
-  padding-bottom: 5em;
+  /*padding-bottom: 5em;*/
 }
 
 ul, ol {
@@ -91,6 +101,18 @@ ol ol{
   margin-top: 1em;
 }
 
+span.titoletto-heding {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: .8em;
+    display: block;
+    margin-left: 1em;
+    padding-left: 1em;
+    border-left: 1px solid #fff;
+    font-weight: 400;
+    margin-top: 15px;
+}
+
 .mdl-dialog__content ul,
 .mdl-dialog__content ol {
     margin-top: 10px;
@@ -98,6 +120,10 @@ ol ol{
 
 sup {
     font-weight: bold;
+}
+
+.mdl-button.mdl-button--colored{
+  color: #464646;
 }
 
 .mdl-data-table td,
@@ -109,7 +135,7 @@ sup {
 .mdl-data-table th {
     vertical-align: top;
     color: #5f5e5e;
-    background-color: #d3eae8;
+    background-color: #faedf1;
     font-weight: 800;
 }
 
@@ -118,7 +144,7 @@ sup {
 }
 
 .mdl-grid.demo-content {
-    border-radius: 10px;
+    /*border-radius: 10px;*/
     padding-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
@@ -138,6 +164,13 @@ sup {
   font-weight: 300;
 }
 
+.vai-a-arrow-text{
+    padding-top: 30px;
+    display: block;
+    float: left;
+
+}
+
 .vai-a{
   font-size: 16px;
   line-height: 1;
@@ -149,7 +182,7 @@ sup {
 div.vai-a-spacer{
       width: 100%;
     clear: both;
-    height: 60px;
+    height: 10px;
 }
 
 .opuscolo li{
@@ -275,6 +308,7 @@ div.vai-a-spacer{
 
 .demo-content {
   max-width: 960px;
+  margin-bottom: 5em;
 }
 
 .demo-charts {
@@ -394,6 +428,31 @@ _:-ms-input-placeholder, :root .demo-graph {
   margin-bottom: 40px;
   z-index: 900;
 }
+
+#footer-ho-deciso {
+    background-color: #d66c83 !important;
+    /*position: fixed;
+    bottom: 0px;
+    width: 100%;*/
+}
+
+.informata-quanto-basta {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: -1px;
+}
+
+
+#footer-ho-deciso a.button-vai-a {
+    color: #424242 !important;
+    background-color: #f5f5f5 !important;
+    line-height: 40px;
+    padding: 5px 10px 5px 10px;
+    height: 40px;
+}
+
 #indietro {
   position: fixed;
   display: block;
@@ -406,8 +465,8 @@ _:-ms-input-placeholder, :root .demo-graph {
 
 .mdl-cell--12-col a {
     text-shadow: 1px 1px 0 #fff,-1px 1px 0 #fff,2px 0 0 #fff,-2px 0 0 #fff;
-    -webkit-box-shadow: inset 0 0 0 0 #fff,inset 0 -1px 0 0 #a7ded9;
-    box-shadow: inset 0 0 0 0 #fff,inset 0 -1px 0 0 #a7ded9;
+    -webkit-box-shadow: inset 0 0 0 0 #fff, inset 0 -1px 0 0 #dbdbdb;
+    box-shadow: inset 0 0 0 0 #fff, inset 0 -1px 0 0 #dbdbdb;
     font-weight: 400;
     background-color: rgba(0,0,0,0);
     transition: background-color 400ms ease;
@@ -417,7 +476,7 @@ _:-ms-input-placeholder, :root .demo-graph {
     padding-right: 3px;
 }
 .mdl-cell--12-col a:hover {
-  background-color: #ebf9f8;
+  background-color: #faedf1;
   text-shadow: none;
 }
 
@@ -464,7 +523,7 @@ _:-ms-input-placeholder, :root .demo-graph {
 }
 
 div.vai-a-container {
-  margin: auto;
+  /*margin: auto;*/
 }
 
 .vai-a-container a {
@@ -472,15 +531,15 @@ div.vai-a-container {
 }
 
 .dialog-container a.button-vai-a:visited {
-  background-color: #f7cd6b;
+  background-color: #dab7c0;
 }
 
 .dialog-container a.button-vai-a {
-    padding: 15px 10px 15px 10px;
-    font-size: 9px;
-    height: 50px;
-    border-radius: 45px;
-    width: 50px;
+    padding: 10px 10px 20px 10px;
+    font-size: 10px;
+    height: 30px;
+    border-radius: 2px;
+    width: 100px;
 }
 
 a.button-vai-a {
@@ -489,21 +548,21 @@ a.button-vai-a {
     vertical-align: middle;
     margin-bottom: 5px;
     /* display: table-cell; */
-    padding: 25px 20px 15px 20px;
+    padding: 15px 10px 15px 10px;
     font-size: 11px;
-    height: 80px;
-    border-radius: 90px;
-    width: 80px;
+    height: 50px;
+    border-radius: 5px;
+    width: 120px;
     float: left;
     letter-spacing: 0;
     margin-right: 1em;
-    border-style: double;
+    /* border-style: double; */
     /* border-width: 4px; */
 }
 
 a.button-vai-a:hover{
-  background-color: rgba(158,158,158,.2) !important;
-  color: #464646 !important;
+    background-color: #bc3d53 !important;
+    color: #fff !important;
 }
 
 /* MODALS */
@@ -673,9 +732,9 @@ i.tooltip-source {
 
 .mdl-tooltip {
 
-    background: #009688;
+    background: #faedf1;
     border-radius: 5px;
-    color: #fff;
+    color: #555;
 
     font-size: 14px;
     font-weight: 500;
@@ -687,7 +746,7 @@ i.tooltip-source {
     padding: 8px;
     text-align: left;
 
-    border-style: double;
+    /*border-style: double;*/
 }
 
 
@@ -735,16 +794,34 @@ i.tooltip-source {
 }
 
 .mdl-layout__header {
-    background-color: #72bf18;
+    background-color: #d66c83;
   }
 
 .mdl-button--raised.mdl-button--colored {
-    background: #72bf18;
+    background: #998b8b;
 }
 
-@media (max-width: 479px) {
+@media (max-width: 500px) {
   .mdl-button{
     line-height: 24px;
   }
+
+  a.button-vai-a {
+    width: 39%;
+    margin: 2px;
+  }
+
+  span.titoletto-heding{
+    display: none;
+  }
+
+  .logo-orz-header {
+    height: 35px;
+  }
+
+  .dialog-container a.button-vai-a {
+    width: 40%;
+  }
+
 }
 

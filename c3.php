@@ -45,6 +45,7 @@
     <header class="demo-header mdl-layout__header">
       <div class="mdl-layout__header-row">
         <span class="mdl-layout-title"><img src="images/q.b._Logo_web_orz.png" class="logo-orz-header" alt="q.b. per sapere quanto basta"/></span>
+        <span class="titoletto-heding">Screening mammografico</span>
         <div class="mdl-layout-spacer"></div>
         <a href="#" class="mdl-color-text--white open-modal-fonti"><i class="material-icons mdl-24">library_books</i></a>
         <a id="open-tree-sitemap" href="#" class="open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i></a>
@@ -80,6 +81,7 @@
 
     <main class="mdl-layout__content mdl-color--grey-100">
       <div class="mdl-grid demo-content">
+        <div class="banner"><img src="images/QB_progress-02-1.jpg"></div>
         <div class="mdl-grid mdl-cell--10-col ">
 
 
@@ -98,135 +100,150 @@
         <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell mdl-cell--12-col mdl-grid">
           <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell--9-col  mdl-grid">
             <h3>I principali fattori di rischio e di protezione dal tumore</h3>
-            <p>Il rischio di insorgenza di tumore al seno dipende da pi&ugrave; fattori, che possono essere distinti in due gruppi: quelli su cui non puoi intervenire e quelli che puoi minimizzare adottando un corretto stile di vita.</p>
-            <p>L'<strong>et&agrave;</strong>: il rischio aumenta con gli anni, e pi&ugrave; del 75% dei casi di tumore del seno colpisce donne sopra i 50 anni.</p>
-            <p>La <strong>familiarit&agrave;</strong> : in alcune famiglie si raggruppano diversi casi di tumore al seno in donne con legame di primo grado (madre e figlie) o secondo grado (sorelle).</p>
-            <p>La componente <strong>genetica</strong>: le mutazioni nei geni BRCA1 e il BRCA2 sono responsabili di circa il 50 per cento delle forme ereditarie di cancro del seno e dell'ovaio.</p>
-            <p>Et&agrave;, familiarit&agrave; e assetto genetico sono fattori da considerare per valutare il proprio rischio, ma che non possono essere modificati.<br />Invece esistono comportamenti della vita quotidiana che influiscono sul rischio di sviluppare un tumore al seno, aumentandolo o riducendolo.</p>
-            <p>Per esempio un tasso elevato di estrogeni, gli ormoni femminili per eccellenza, facilita la comparsa del cancro al seno. Per questo tutti i fattori che ne aumentano la presenza (come la terapia ormonale sostitutiva o TOS) hanno un effetto negativo e viceversa le gravidanze, che riducono la produzione degli estrogeni da parte dell'organismo, hanno un effetto protettivo.<br />Anche seguire una dieta alimentare basata prevalentemente su cibi vegetali (cereali non raffinati, legumi, verdure non amidacee e frutta), soprattutto se combinata con un ridotto consumo d&rsquo;alcool (niente o al massimo una dose, di alcool, equivalente a 1 bicchiere di vino al giorno) e con un controllo del proprio peso corporeo (con un limite di 24,9 per il proprio <strong>Indice di massa corporea <i id="tooltip-imc" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large" data-mdl-for="tooltip-imc">(IMC o BMI, Body Mass Index) Si calcola dividendo il peso corporeo (in kg)<br/>per la statura (in metri) elevata al quadrato e si usa per stabilire il sovrappeso<br/>(&ge;25 kg/m&sup2;) o l&rsquo;obesit&agrave; (&ge;30 kg/m&sup2;).</span>) ha un effetto protettivo.</p>
-            <p>Nelle tabelle <a href="c5.php">"Fattori modificabili con lo stile di vita che favoriscono il tumore al seno"</a>&nbsp;e&nbsp;<a href="c6.php">"Fattori modificabili con lo stile di vita che proteggono dal tumore al seno"</a> trovi l&rsquo;elenco dei fattori modificabili che hanno un impatto sul rischio di sviluppare un tumore al seno, secondo i dati degli <strong>studi osservazionali <i id="tooltip-osservazionali" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large mdl-tooltip--top" data-mdl-for="tooltip-osservazionali">Tipo di studio in cui i ricercatori si limitano a osservare gli eventi nei gruppi allo studio senza intervenire direttamente. Per esempio, nel caso dello screening mammografico, i ricercatori seguono nell’arco del tempo (per anni) donne che hanno partecipato e non hanno partecipato allo screening e rilevano la frequenza di diversi eventi (l’insorgenza del tumore al seno, di morti per la malattia, di sovradiagnosi, eccetera).</span> pi&ugrave; accreditati.</p>
+            
+            <p>Il rischio di insorgenza di tumore al seno dipende da più fattori, che possono essere distinti in due gruppi: quelli su cui non puoi intervenire e quelli che puoi minimizzare adottando un corretto stile di vita.</p>
+            
+            <p>L'<strong>età</strong>: il rischio aumenta con gli anni, e più del 75% dei casi di tumore del seno colpisce donne sopra i 50 anni.</p>
+            <p>La <strong>familiarità</strong>: in alcune famiglie si raggruppano diversi casi di tumore al seno in donne con legame di primo grado (madre e figlie) o secondo grado (sorelle).</p>
+            <p>La componente <strong>genetica</strong>: le mutazioni nei geni BRCA1 e il BRCA2 sono responsabili di circa la metà delle forme ereditarie (il 5-7% del totale) di cancro del seno.</p>
+            <p>Età, familiarità e assetto genetico sono fattori da considerare per valutare il proprio rischio, ma che non possono essere modificati.</p>
+            <p>Invece esistono comportamenti della vita quotidiana che influiscono sul rischio di sviluppare un tumore al seno, aumentandolo o riducendolo. Per esempio un tasso elevato di estrogeni, gli ormoni femminili per eccellenza, facilita la comparsa del cancro al seno. Per questo tutti i fattori che ne aumentano la presenza (come la terapia ormonale sostitutiva o TOS) hanno un effetto negativo e viceversa le gravidanze, che riducono la produzione degli estrogeni da parte dell'organismo, hanno un effetto protettivo.</p>
+            <p>Anche seguire una dieta alimentare basata prevalentemente su cibi vegetali (cereali non raffinati, legumi, verdure non amidacee e frutta) - soprattutto se combinata con un ridotto consumo d’alcool (niente o al massimo una dose di alcool, equivalente a 1 bicchiere di vino al giorno) e con un controllo del proprio peso corporeo - ha un effetto protettivo.</p>
+            <p>TABELLA DONZELLI <a href="c5.php">1</a> e <a href="c6.php">2</a> UNITE
+
+
+            </div>
+          </div>
+
+
+          <!--                       -->
+          <!--  VAI A...             -->
+          <!--                       -->
+
+          <div class="mdl-cell mdl-cell--2-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet vai-a-container-freccia">
+            <div class="vai-a mdl-color-text--grey-800"><span class="vai-a-arrow-text">Vai a </span><i class="material-icons">keyboard_arrow_right</i></div>
+          </div>
+
+          <div class="mdl-shadow--2dp- mdl-cell mdl-cell--10-col mdl-grid vai-a-enevelope">
+
+            <div class="vai-a-container">
+              <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-color-text--white" href="b1.php">Che cos'è lo screening mammografico organizzato</a>
+
+              <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-color-text--white" href="a2.php">I pro e contro della mammografia di screening</a>
+
+              <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-color-text--white" href="e1.php">Disaccordo tra esperti nella valutazione dei risultati</a>
+
+              <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>
+
+
+
+
+            </div>
+
+          </div>
+
+        </div>
+        <div id="footer-ho-deciso" class="">
+          <div class="mdl-grid mdl-cell--8-col">
+            <div class="mdl-grid mdl-cell--5-col informata-quanto-basta">Mi sono informata quanto basta!</div>
+            <div class="mdl-grid mdl-cell--3-col informata-quanto-basta">
+              <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php">Pronta a scegliere</a>
+            </div>
           </div>
         </div>
 
 
-        <!--                       -->
-        <!--  VAI A...             -->
-        <!--                       -->
-
-        <div class="mdl-cell mdl-cell--1-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet">
-          <div class="vai-a mdl-color-text--grey-400">Vai a...<br/><i class="material-icons">subdirectory_arrow_right</i></div>
-        </div>
-
-        <div class="mdl-shadow--2dp- mdl-cell mdl-cell--11-col mdl-grid">
-
-          <div class="vai-a-container">
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-color-text--white" href="b1.php">Che cos'è lo screening mammografico organizzato</a>
-            
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-color-text--white" href="a2.php">I pro e contro della mammografia di screening</a>
-            
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-color-text--white" href="e1.php">Disaccordo tra esperti nella valutazione dei risultati</a>
-
-            <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>
-
-
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>
-
-          </div>
-
-        </div>
-
-      </div>
-    </main>
-  </div>
+      </main>
 
 
 
 
-  <!--                       -->
-  <!--    WIDGET A COMPARSA  -->
-  <!--                       -->
+      <!--                       -->
+      <!--    WIDGET A COMPARSA  -->
+      <!--                       -->
 
 
-  <!--    TOOL TIPS   -->
+      <!--    TOOL TIPS   -->
 
 
-  <div class="mdl-tooltip mdl-tooltip--bottom" data-mdl-for="gfx-c3-1">Grafico 1</div> 
-  <div class="mdl-tooltip mdl-tooltip--bottom" data-mdl-for="gfx-c3-2">Grafico 2</div> 
+      <div class="mdl-tooltip mdl-tooltip--bottom" data-mdl-for="gfx-c3-1">Grafico 1</div> 
+      <div class="mdl-tooltip mdl-tooltip--bottom" data-mdl-for="gfx-c3-2">Grafico 2</div> 
 
 
-  <!--    MODALS      -->
 
 
-  <div id="modal-tabella" class="mdl-dialog mdl-cell--11-col mdl-cell--11-col-tablet mdl-cell--11-col-desktop">
-    <span class="mdl-dialog__title"><h5>Comportamenti da evitare per diminuire la probabilità di ammalarsi di tumore al seno.</h5></span>
-    <div class="mdl-dialog__content">
-      <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
-        <tbody>
-          <tr class="testata-tabella">
-            <th class="mdl-data-table__cell--non-numeric">Comportamento</th>
-            <th class="">Aumento del <strong>rischio relativo <i id="tooltip-rischio" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large" data-mdl-for="tooltip-rischio">Indica di quanto varia il rischio, per esempio di ammalarsi di tumore al seno, in funzione di un fattore variabile, come un certo tipo di alimentazione o l’essere in sovrappeso durante la menopausa. 
-              Il rischio relativo è la probabilità che un soggetto, che fa parte di un gruppo caratterizzato dalla variabile in studio (ad esempio il sovrappeso), sviluppi il tumore al seno, rispetto alla probabilità che un soggetto di un gruppo senza quella variabile sviluppi la stessa malattia.
-              Ad esempio, il rischio di avere un tumore al seno per una persona in sovrappeso aumenta del 30% rispetto a chi non lo è; mentre il rischio di avere un tumore al seno diminuisce in una persona che segue la dieta mediterranea del 68% rispetto a chi non la segue.</span></th>
-            </tr>
-            <tr>
-              <td class="mdl-data-table__cell--non-numeric">Essere in forte sovrappeso (BMI&gt;28) in menopausa</td>
-              <td>Aumenta del 30% </td>
-            </tr>
-            <tr>
-              <td class="mdl-data-table__cell--non-numeric">Soffrire di <strong>sindrome metabolica <i id="tooltip-sindrome-met" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large" data-mdl-for="tooltip-sindrome-met">Condizione patologica caratterizzata dalla presenza di almeno 3 tra le seguenti alterazioni: accumulo di grasso a livello dell’addome, obesità, aumento dei trigliceridi nel sangue, riduzione del colesterolo HDL nel sangue, aumento della pressione arteriosa, aumento della glicemia fino alla presenza di diabete di tipo 2 (diabete non insulino-dipendente). Le persone con sindrome metabolica hanno un aumento del rischio di malattie cardiovascolari e di alcune forme tumorali.
-              </span> dopo la menopausa </td>
-              <td>Aumenta del 56% </td>
-            </tr>
-            <tr>
-              <td class="mdl-data-table__cell--non-numeric">Bere pi&ugrave; di una <strong>dose di alcol <i id="tooltip-dose-alcol" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large" data-mdl-for="tooltip-dose-alcol">Il consumo di alcol viene abitualmente espresso facendo riferimento all’unità alcolica o “bicchier standard” che è uguale a circa 10-12 grammi di alcol puro e corrisponde a un bicchiere di vino (12°, 125 ml), una lattina di birra (4,5°, 330 ml), un aperitivo (18°, 80 ml), un bicchierino di superalcolico.</span> al giorno (il rischio &egrave; massimo se lo si fa durante l&rsquo;adolescenza) </td>
-              <td>Aumenta tra il 5% e il 13% per ciascuna dose in pi&ugrave; </td>
-            </tr>
-            <tr>
-              <td class="mdl-data-table__cell--non-numeric">Consumare molta carne rossa (&ge;3 volte la settimana) </td>
-              <td>Aumenta tra il 7% e il 39% </td>
-            </tr>
-            <tr>
-              <td class="mdl-data-table__cell--non-numeric">Fumare (il rischio &egrave; massimo se lo si fa durante l&rsquo;adolescenza) </td>
-              <td>Aumenta tra il 12% e il 21% </td>
-            </tr>
-            <tr>
-              <td class="mdl-data-table__cell--non-numeric">Usare la TOS (<strong>terapia ormonale sostitutiva <i id="tooltip-tos" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large" data-mdl-for="tooltip-tos">Somministrazione di ormoni femminili (estrogeni e/o progestinici) quando, con la menopausa o per un intervento chirurgico, è cessata la funzione ovarica.</span>) in menopausa  </td>
-              <td>Aumenta del 28% per una terapia di 5 anni Aumenta tra il 100% e il 227%, secondo il tipo di terapia (combinazioni di ormoni, durata) e il periodo di osservazione dopo la terapia </td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
 
 
-    <!--    MODALS      -->
-    <!--    mettere tutti i modal dentro il div hide-modal per rimuoverli dalla visualizzazione  -->
-
-    <div class="hide-modal">
 
 
-      <div id="modal-fonti" class="mdl-dialog mdl-cell--11-col mdl-cell--11-col-tablet mdl-cell--11-col-desktop">
-        <span class="mdl-dialog__title"><h4>Fonti</h4></span>
+        <!--    MODALS      -->
+        <!--    mettere tutti i modal dentro il div hide-modal per rimuoverli dalla visualizzazione  -->
+
+        <div class="hide-modal">
+
+        <div id="modal-tabella" class="mdl-dialog mdl-cell--11-col mdl-cell--11-col-tablet mdl-cell--11-col-desktop">
+        <span class="mdl-dialog__title"><h5>Comportamenti da evitare per diminuire la probabilità di ammalarsi di tumore al seno.</h5></span>
         <div class="mdl-dialog__content">
-          <p><ul>
-            <li>IARC Handbooks of Cancer Prevention. Breast cancer screening. IARC, n. 15, Lyon, 2014</li>
-            <li>WHO Global recommendations on physical activity for health, 2010. [<a href="http://www.who.int/dietphysicalactivity/global-PA-recs-2010.pdf">link</a>]</li>
-          </ul></p>
+          <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+            <tbody>
+              <tr class="testata-tabella">
+                <th class="mdl-data-table__cell--non-numeric">Comportamento</th>
+                <th class="">Aumento del <strong>rischio relativo <i id="tooltip-rischio" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large" data-mdl-for="tooltip-rischio">Indica di quanto varia il rischio, per esempio di ammalarsi di tumore al seno, in funzione di un fattore variabile, come un certo tipo di alimentazione o l’essere in sovrappeso durante la menopausa. 
+                  Il rischio relativo è la probabilità che un soggetto, che fa parte di un gruppo caratterizzato dalla variabile in studio (ad esempio il sovrappeso), sviluppi il tumore al seno, rispetto alla probabilità che un soggetto di un gruppo senza quella variabile sviluppi la stessa malattia.
+                  Ad esempio, il rischio di avere un tumore al seno per una persona in sovrappeso aumenta del 30% rispetto a chi non lo è; mentre il rischio di avere un tumore al seno diminuisce in una persona che segue la dieta mediterranea del 68% rispetto a chi non la segue.</span></th>
+                </tr>
+                <tr>
+                  <td class="mdl-data-table__cell--non-numeric">Essere in forte sovrappeso (BMI&gt;28) in menopausa</td>
+                  <td>Aumenta del 30% </td>
+                </tr>
+                <tr>
+                  <td class="mdl-data-table__cell--non-numeric">Soffrire di <strong>sindrome metabolica <i id="tooltip-sindrome-met" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large" data-mdl-for="tooltip-sindrome-met">Condizione patologica caratterizzata dalla presenza di almeno 3 tra le seguenti alterazioni: accumulo di grasso a livello dell’addome, obesità, aumento dei trigliceridi nel sangue, riduzione del colesterolo HDL nel sangue, aumento della pressione arteriosa, aumento della glicemia fino alla presenza di diabete di tipo 2 (diabete non insulino-dipendente). Le persone con sindrome metabolica hanno un aumento del rischio di malattie cardiovascolari e di alcune forme tumorali.
+                  </span> dopo la menopausa </td>
+                  <td>Aumenta del 56% </td>
+                </tr>
+                <tr>
+                  <td class="mdl-data-table__cell--non-numeric">Bere pi&ugrave; di una <strong>dose di alcol <i id="tooltip-dose-alcol" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large" data-mdl-for="tooltip-dose-alcol">Il consumo di alcol viene abitualmente espresso facendo riferimento all’unità alcolica o “bicchier standard” che è uguale a circa 10-12 grammi di alcol puro e corrisponde a un bicchiere di vino (12°, 125 ml), una lattina di birra (4,5°, 330 ml), un aperitivo (18°, 80 ml), un bicchierino di superalcolico.</span> al giorno (il rischio &egrave; massimo se lo si fa durante l&rsquo;adolescenza) </td>
+                  <td>Aumenta tra il 5% e il 13% per ciascuna dose in pi&ugrave; </td>
+                </tr>
+                <tr>
+                  <td class="mdl-data-table__cell--non-numeric">Consumare molta carne rossa (&ge;3 volte la settimana) </td>
+                  <td>Aumenta tra il 7% e il 39% </td>
+                </tr>
+                <tr>
+                  <td class="mdl-data-table__cell--non-numeric">Fumare (il rischio &egrave; massimo se lo si fa durante l&rsquo;adolescenza) </td>
+                  <td>Aumenta tra il 12% e il 21% </td>
+                </tr>
+                <tr>
+                  <td class="mdl-data-table__cell--non-numeric">Usare la TOS (<strong>terapia ormonale sostitutiva <i id="tooltip-tos" class="material-icons tooltip-source">pageview</i></strong><span class="mdl-tooltip mdl-tooltip--large" data-mdl-for="tooltip-tos">Somministrazione di ormoni femminili (estrogeni e/o progestinici) quando, con la menopausa o per un intervento chirurgico, è cessata la funzione ovarica.</span>) in menopausa  </td>
+                  <td>Aumenta del 28% per una terapia di 5 anni Aumenta tra il 100% e il 227%, secondo il tipo di terapia (combinazioni di ormoni, durata) e il periodo di osservazione dopo la terapia </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
         </div>
-      </div>
 
-      <?php include'includes/common_modals.php';?>
-      
-    </div>
+          <div id="modal-fonti" class="mdl-dialog mdl-cell--11-col mdl-cell--11-col-tablet mdl-cell--11-col-desktop">
+            <span class="mdl-dialog__title"><h4>Fonti</h4></span>
+            <div class="mdl-dialog__content">
+              <p><ul>
+                <li>IARC Handbooks of Cancer Prevention. Breast cancer screening. IARC, n. 15, Lyon, 2014</li>
+                <li>WHO Global recommendations on physical activity for health, 2010. [<a href="http://www.who.int/dietphysicalactivity/global-PA-recs-2010.pdf">link</a>]</li>
+              </ul></p>
+            </div>
+          </div>
+
+          <?php include'includes/common_modals.php';?>
+
+        </div>
 
 
-    <!--    SCRIPTS DI CHIUSURA      -->
+        <!--    SCRIPTS DI CHIUSURA      -->
 
 
-    <script type="text/javascript" src="js/scripts.js"></script>
-    <script src="https://code.getmdl.io/1.2.1/material.min.js"></script>
-    <script type="text/javascript">
-      $( document ).ready(function() {
+        <script type="text/javascript" src="js/scripts.js"></script>
+        <script src="https://code.getmdl.io/1.2.1/material.min.js"></script>
+        <script type="text/javascript">
+          $( document ).ready(function() {
 
           // TUTTI I MODAL
           

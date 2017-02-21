@@ -44,6 +44,7 @@
 		<header class="demo-header mdl-layout__header">
 			<div class="mdl-layout__header-row">
 				<span class="mdl-layout-title"><img src="images/q.b._Logo_web_orz.png" class="logo-orz-header" alt="q.b. per sapere quanto basta"/></span>
+<span class="titoletto-heding">Screening mammografico</span>
 				<div class="mdl-layout-spacer"></div>
 			</div>
 		</header>
@@ -70,8 +71,9 @@
 		<!--                       -->
 
 
-		<main class="mdl-layout__content mdl-color--grey-100">
+		<main class="opuscolo mdl-layout__content mdl-color--grey-100">
 			<div class="mdl-grid demo-content">
+<div class="banner"><img src="images/QB_progress-02-1.jpg"></div>
 
 				<!--    CONTENUTO     -->
 
@@ -90,18 +92,53 @@
 							<li>In genere ogni 100 donne che effettuano una mammografia, circa 5 devono ripetere l&rsquo;esame o sottoporsi ad approfondimenti. Per 4 di loro si tratta in realtà di &lsquo;falsi allarmi&rsquo;, in quanto gli approfondimenti escludono la presenza di un tumore (i cosiddetti falsi positivi). Lo svantaggio è rappresentato principalmente dall'ansia che una donna può provare in tali situazioni.</li>
 							<li>Non sempre la mammografia è in grado di evidenziare il tumore quando è presente. In alcuni casi la mammella è molto densa (cioè contiene molte ghiandole) e ciò rende difficile l&rsquo;identificazione del tumore (i cosiddetti falsi negativi).</li>
 							<li>Ci sono casi in cui la malattia si sviluppa molto rapidamente nell&rsquo;intervallo tra due test di screening (i cosiddetti cancri di intervallo). È quindi importante prestare sempre attenzione ai cambiamenti del seno come indurimenti, cambiamenti della pelle o fuoriuscita di liquido dal capezzolo e alla presenza di noduli ascellari, anche nel caso in cui la mammografia non abbia evidenziato anomalie. Se si notano delle anomalie è opportuno rivolgersi subito al proprio medico.</li>
-							<li>Alcune anomalie, tra quelle che vengono rilevate dalla mammografia, non sono destinate a trasformarsi in tumori invasivi e a compromettere la salute della donna. In questi casi (1 caso di tumore ogni 10 diagnosticati) si può incorrere in interventi che non sarebbero stati necessari (la cosidetta sovradiagnosi). Questo purtroppo è inevitabile in quanto le conoscenze attuali non consentono di distinguere fin dall&rsquo;inizio tra i tumori che sono una minaccia per la vita e quelli che non lo sono.</li>
+							<li>Alcune anomalie, tra quelle che vengono rilevate dalla mammografia, non sono destinate a trasformarsi in tumori invasivi e a compromettere la salute della donna (la cosiddetta sovradiagnosi). In questi casi (1 caso di tumore ogni 10 diagnosticati) si può incorrere in interventi che non sarebbero stati necessari. Questo purtroppo è inevitabile in quanto le conoscenze attuali non consentono di distinguere fin dall&rsquo;inizio tra i tumori che sono una minaccia per la vita e quelli che non lo sono.</li>
 						</ul>
 						<h3>Quale Può Essere L&rsquo;esito Della Mammografia?</h3>
 						<ul>
 							<li>Se non risulta nulla di sospetto, riceverà una lettera di esito negativo.<br /> È bene sapere che lo scopo dello screening mammografico è individuare tumori maligni riconoscibili ai raggi x; non vengono considerate altre patologie della mammella.</li>
 							<li>Se si evidenziano immagini dubbie, sarà contattata ed invitata a recarsi al centro di screening per eseguire approfondimenti, che possono comprendere altre mammografie, ecografia o talvolta un piccolo prelievo di tessuto mammario (biopsia). La maggior parte di questi casi dubbi non è dovuta alla presenza di un tumore, ma è necessario eseguire questi esami supplementari proprio per esserne sicuri.</li>
 						</ul>
+
+
 					</div>
+            <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell mdl-cell--12-col mdl-grid">
+
+              <h3>Farai la mammografia di screening?</h3>
+              <div> 
+                <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-1">
+                  <input type="radio" id="option-1" class="mdl-radio__button" name="options" value="1" >
+                  <span class="mdl-radio__label">Sicuramente sì</span>
+                </label>
+                <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-2">
+                  <input type="radio" id="option-2" class="mdl-radio__button" name="options" value="2">
+                  <span class="mdl-radio__label">Probabilmente sì</span>
+                </label>
+                <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-3">
+                  <input type="radio" id="option-3" class="mdl-radio__button" name="options" value="3">
+                  <span class="mdl-radio__label">Non so</span>
+                </label>
+                <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-4">
+                  <input type="radio" id="option-4" class="mdl-radio__button" name="options" value="4">
+                  <span class="mdl-radio__label">Probabilmente no</span>
+                </label>
+                <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-5">
+                  <input type="radio" id="option-5" class="mdl-radio__button" name="options" value="5">
+                  <span class="mdl-radio__label">Sicuramente no</span>
+                </label>
+              </div>
+
+            </div>
+            <div class="vai-a-spacer">&nbsp;</div>
+
 				</div>
 			</main>
-		</div>
 
+<div id="footer-ho-deciso">
+<a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>
+</div>
+		</div>
+  <a href="" id="ho-deciso" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent mdl-color-text--white">Salva</a>
 
      <!--    MODALS      -->
       <!--    mettere tutti i modal dentro il div hide-modal per rimuoverli dalla visualizzazione  -->

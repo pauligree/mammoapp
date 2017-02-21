@@ -46,6 +46,7 @@
     <header class="demo-header mdl-layout__header">
       <div class="mdl-layout__header-row">
         <span class="mdl-layout-title"><img src="images/q.b._Logo_web_orz.png" class="logo-orz-header" alt="q.b. per sapere quanto basta"/></span>
+<span class="titoletto-heding">Screening mammografico</span>
         <div class="mdl-layout-spacer"></div>
         <a id="gfx-a4-1" href="#" class="gfx-a4-1 mdl-color-text--white"><i class="material-icons mdl-24">poll</i></a>
         <a id="gfx-a4-2" href="#" class="gfx-a4-2 mdl-color-text--white"><i class="material-icons mdl-24">poll</i></a>
@@ -82,6 +83,7 @@
 
     <main class="mdl-layout__content mdl-color--grey-100">
       <div class="mdl-grid demo-content">
+<div class="banner"><img src="images/QB_progress-02-1.jpg"></div>
         <div class="mdl-grid mdl-cell--10-col ">
 
 
@@ -100,35 +102,51 @@
         <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell mdl-cell--12-col mdl-grid">
           <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell--9-col  mdl-grid">
             <h3>Che risultati aspettarsi se si partecipa a tutto il Programma di screening</h3>
-            <p>Su 1.000 donne di 50 anni che partecipano regolarmente al programma di screening mammografico organizzato, nei successivi 30 anni, circa</p>
-            <ul>
-              <li>71 ricevono diagnosi di tumore al seno (trovato allo screening o sulla base di sintomi clinici)</li>
-              <li>12 muoiono di tumore al seno</li>
-              <li>8  non muoiono per tumore al seno grazie allo screening</li>
-              <li>4 ricevono una <a href="d3.php">sovradiagnosi</a> e sono trattate inutilmente<br />
-              </li>
-            </ul>
-            <p>Se le stesse 1.000 donne sono tenute sotto osservazione in assenza di un programma di screening, si avrà che: </p>
-            <ul>
-              <li>67  ricevono diagnosi di tumore al seno</li>
-              <li>20 di loro muoiono di tumore al seno</li>
-            </ul>
-            <p>Per visualizzare questi risultati in forma grafica, clicca qui (<a href="#" class="gfx-a4-1">grafico 1</a> e <a href="#" class="gfx-a4-2">grafico 2</a>).</p>
+            
+            <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell--8-col  mdl-grid">
+            <div class="demo-card-wide mdl-card mdl-shadow--2dp">
+              <div class="mdl-card__supporting-text">
+                <img src="images/gfx/gfx-a3-1.jpg">
+              </div>
+            </div>
+          </div>
+          <p>(Fonte Euroscreen 2012. Per conoscere i dati di mortalità secondo altre fonti <a href="e4.php">vai qui</a>; per conoscere i dati di sovradiagnosi <a href="e5.php">vai qui</a>).</p>
+          
+
+<p>Su 1.000 donne di 50 anni che partecipano regolarmente al programma di screening mammografico organizzato, nei successivi 30 anni, circa:<br />
+        <ul>
+<li>71 ricevono diagnosi di tumore al seno (trovato allo screening o sulla base di sintomi clinici)</li>
+<li>12 muoiono di tumore al seno</li>
+<li>8 non muoiono per tumore al seno grazie allo screening</li>
+<li>4 ricevono una <a href="d3.php">sovradiagnosi</a> e sono trattate inutilmente</li>
+</ul>
+
+ <p>Se le stesse 1.000 donne sono tenute sotto osservazione in assenza di un programma di screening, si avrà che:<br />
+ <ul>
+<li>67 ricevono diagnosi di tumore al seno</li>
+<li>20 di loro muoiono di tumore al seno</li>
+</ul>
+
+ <p>In pratica:<br />
+Alcune donne muoiono comunque di tumore al seno: si tratta di 12 donne su 1.000 tra quelle che partecipano al Programma, mentre sarebbero 20 se il Programma non ci fosse. Quindi si può dire che 8 donne su 1.000 sono salvate dalla morte per tumore al seno. Le donne diagnosticate e poi trattate inutilmente, per quei tumori scoperti con la mammografia di screening ma che in realtà non si sarebbero mai manifestati, sono 4 su 1.000. In assenza del Programma non si verificano casi di sovradiagnosi perché vengono trattati solo i tumori già evidenti.</p>
 
           </div>
           
         </div>
+        
+        
+
 
 
         <!--                       -->
         <!--  VAI A...             -->
         <!--                       -->
 
-        <div class="mdl-cell mdl-cell--1-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet">
-          <div class="vai-a mdl-color-text--grey-400">Vai a...<br/><i class="material-icons">subdirectory_arrow_right</i></div>
+        <div class="mdl-cell mdl-cell--2-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet vai-a-container-freccia">
+          <div class="vai-a mdl-color-text--grey-800"><span class="vai-a-arrow-text">Vai a </span><i class="material-icons">keyboard_arrow_right</i></div>
         </div>
 
-        <div class="mdl-shadow--2dp- mdl-cell mdl-cell--11-col mdl-grid">
+        <div class="mdl-shadow--2dp- mdl-cell mdl-cell--10-col mdl-grid vai-a-enevelope">
 
           <div class="vai-a-container">          
 
@@ -137,7 +155,7 @@
               <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>
 
               
-              <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>
+              
 
             
 
@@ -147,8 +165,17 @@
         </div>
 
       </div>
-    </main>
-  </div>
+          <div id="footer-ho-deciso" class="">
+            <div class="mdl-grid mdl-cell--8-col">
+              <div class="mdl-grid mdl-cell--5-col informata-quanto-basta">Mi sono informata quanto basta!</div>
+              <div class="mdl-grid mdl-cell--3-col informata-quanto-basta">
+                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php">Pronta a scegliere</a>
+              </div>
+            </div>
+          </div>
+
+
+          </main>
 
 
 

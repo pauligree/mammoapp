@@ -46,6 +46,7 @@
     <header class="demo-header mdl-layout__header">
       <div class="mdl-layout__header-row">
         <span class="mdl-layout-title"><img src="images/q.b._Logo_web_orz.png" class="logo-orz-header" alt="q.b. per sapere quanto basta"/></span>
+<span class="titoletto-heding">Screening mammografico</span>
         <div class="mdl-layout-spacer"></div>
 
         <!-- help modal - step 1/3 -->
@@ -90,6 +91,7 @@
 
     <main class="mdl-layout__content mdl-color--grey-100">
       <div class="mdl-grid demo-content">
+<div class="banner"><img src="images/QB_progress-02-1.jpg"></div>
         <div class="mdl-grid mdl-cell--10-col ">
 
 
@@ -108,18 +110,30 @@
         <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell mdl-cell--12-col mdl-grid">
           <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell--9-col  mdl-grid">
             <h3>Cosa succede alle donne che si sottopongono al controllo?</h3>
-            <p>In Italia, su 1.000 donne che si sottopongono al controllo mammografico, in media:</p>
-            <ul>
-              <li>950 donne riceveranno un risultato &ldquo;negativo&rdquo; (assenza di tumore) dopo il primo esame e verranno invitate al prossimo turno;</li>
-              <li>50 donne su 1.000 riceveranno un risultato &ldquo;positivo&rdquo; (sospetto di tumore) e quindi un appuntamento per accertamenti;</li>
-              <li>tra queste 50 donne:
-                <ul>
-                  <li>per 45 il sospetto di tumore risulter&agrave; essere infondato (risultato falso positivo) e verranno invitate al prossimo turno;</li>
-                  <li>per le altre 5 donne il sospetto sar&agrave; confermato, e saranno avviate al trattamento in centri qualificati</li>
-                </ul>
-              </li>
-            </ul>
-            <p>Per sapere che cosa è ragionevole aspettarsi se si partecipa a tutto il Programma di screening, <a href="a3.php">clicca qui</a>.</p>
+            
+            
+                <div class="immagine"><img src="images/gfx/gfx-b3-1_bis.png"></div>
+             
+          
+          
+            
+            <p>In Italia, su 1.000 donne che si sottopongono al controllo mammografico, in media:
+<ul>
+<li>950 donne riceveranno un risultato “negativo” (assenza di tumore) dopo il primo esame e verranno invitate al prossimo turno, ma per una di loro si tratterà di un “falso negativo”;</li>
+<li>50 donne su 1.000 riceveranno un risultato “positivo” (sospetto di tumore) e quindi un appuntamento per accertamenti;</li>
+<li>tra queste 50 donne:</li>
+<ul>
+<li>per 45 il sospetto di tumore risulterà essere infondato (risultato falso positivo) e verranno invitate al prossimo turno;</li>
+<li>per le altre 5 donne il sospetto sarà confermato, e saranno avviate al trattamento in centri qualificati</li>
+</ul></ul></p>
+<p>In pratica:
+<ul>
+<li>nella stragrande maggioranza dei casi la mammografia risulta normale (risultato negativo per 950 donne su 1.000)</li>
+<li>la maggior parte dei casi dubbi risultano normali dopo l’approfondimento (risultato falso positivo per 45 donne su 50)</li>
+<li>esiste la possibilità, molto remota, che un tumore non sia identificato (risultato falso negativo). Si tratta di 1 caso su 1.000, e viene generalmente scoperto o alla mammografia successiva o perché compare un nodulo o una lesione del seno.</li></p>
+
+<p>Per sapere che cosa è ragionevole aspettarsi se si partecipa a tutto il Programma di screening, <a href="a3.php">clicca qui</a>.</p>
+
           </div>
         </div>
 
@@ -130,11 +144,11 @@
 
         <div class="vai-a-spacer">&nbsp;</div>
 
-        <div class="mdl-cell mdl-cell--1-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet">
-          <div class="vai-a mdl-color-text--grey-400">Vai a...<br/><i class="material-icons">subdirectory_arrow_right</i></div>
+        <div class="mdl-cell mdl-cell--2-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet vai-a-container-freccia">
+          <div class="vai-a mdl-color-text--grey-800"><span class="vai-a-arrow-text">Vai a </span><i class="material-icons">keyboard_arrow_right</i></div>
         </div>
 
-        <div class="mdl-shadow--2dp- mdl-cell mdl-cell--11-col mdl-grid">
+        <div class="mdl-shadow--2dp- mdl-cell mdl-cell--10-col mdl-grid vai-a-enevelope">
           <div class="vai-a-container">
 
             <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-color-text--white" href="a2.php">I pro e contro della mammografia di screening</a>
@@ -146,14 +160,23 @@
             <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>
 
 
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>
+            
 
           </div>
         </div>
 
       </div>
-    </main>
-  </div>
+          <div id="footer-ho-deciso" class="">
+            <div class="mdl-grid mdl-cell--8-col">
+              <div class="mdl-grid mdl-cell--5-col informata-quanto-basta">Mi sono informata quanto basta!</div>
+              <div class="mdl-grid mdl-cell--3-col informata-quanto-basta">
+                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php">Pronta a scegliere</a>
+              </div>
+            </div>
+          </div>
+
+
+          </main>
 
 
 

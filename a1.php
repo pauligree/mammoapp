@@ -45,6 +45,7 @@
     <header class="demo-header mdl-layout__header">
       <div class="mdl-layout__header-row">
         <span class="mdl-layout-title"><img src="images/q.b._Logo_web_orz.png" class="logo-orz-header" alt="q.b. per sapere quanto basta"/></span>
+<span class="titoletto-heding">Screening mammografico</span>
         <div class="mdl-layout-spacer"></div>
                <a id="open-tree-sitemap" href="#" class="open-tree-sitemap mdl-color-text--white"><i class="material-icons mdl-24">blur_on</i></a>
       </div>
@@ -79,6 +80,7 @@
 
     <main class="mdl-layout__content mdl-color--grey-100">
       <div class="mdl-grid demo-content">
+<div class="banner"><img src="images/QB_progress-02-1.jpg"></div>
         <div class="mdl-grid mdl-cell--10-col ">
 
 
@@ -96,13 +98,17 @@
 
         <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell mdl-cell--12-col mdl-grid">
           <div class="mdl-color--white- mdl-shadow--2dp- mdl-cell--9-col  mdl-grid">
-            <h3>Che cos’è la mammografia di screening</h3>
-            <p>La mammografia &egrave; un esame del seno che utilizza dosi di <a href="a6.php">raggi X</a>&nbsp;molto basse.</p>
-            <p>Consente di vedere se ci sono noduli ancora prima che siano palpabili. Per questo motivo si usa anche come screening, cio&egrave; su donne che non hanno disturbi n&eacute; hanno manifestato alcun cambiamento, per identificare possibili <a href="c1.php">tumori al seno</a>&nbsp;in fase iniziale.</p>
-            <p>Lo screening funziona bene quando &egrave; <a href="b1.php">organizzato</a>, mentre al di fuori del programma di screening non si ha <a href="b1.php">garanzia di qualit&agrave;</a>&nbsp;in tutte le fasi.</p>
-            <p>Lo screening organizzato &egrave; gratuito.</p>
+            <h3>Che cos’è la mammografia di screening</h3>            
+            <p>La mammografia è un esame del seno che utilizza dosi di <a href="a6.php">raggi X</a> molto basse.</p>
+<p>Consente di vedere se ci sono lesioni o noduli prima che siano palpabili. Per questo motivo si usa anche come screening, cioè su donne che non hanno disturbi né hanno manifestato alcun cambiamento, per identificare possibili <a href="c1.php">tumori al seno</a> in fase iniziale.</p>
+<p>E’ consigliabile eseguire la mammografia di screening all’interno del <a href="b1.php">Programma di screening organizzato</a>, che ha un controllo di qualità e un percorso di cura già impostato nel caso siano necessari approfondimenti. Al di fuori del programma di screening non si hanno <a href="b1.php">garanzie di qualità</a> in tutte le sedi né in tutte le fasi del percorso.</p>
+<p>La mammografia di screening all’interno dei Programmi di screening organizzato è gratuita.</p>
           </div>
         </div>
+        
+        
+    
+
 
 
           <!--                       -->
@@ -111,11 +117,11 @@
 
           <div class="vai-a-spacer">&nbsp;</div>
 
-          <div class="mdl-cell mdl-cell--1-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet">
-            <div class="vai-a mdl-color-text--grey-400">Vai a...<br/><i class="material-icons">subdirectory_arrow_right</i></div>
+          <div class="mdl-cell mdl-cell--2-col mdl-grid mdl-cell--hide-phone mdl-cell--hide-tablet vai-a-container-freccia">
+            <div class="vai-a mdl-color-text--grey-800"><span class="vai-a-arrow-text">Vai a </span><i class="material-icons">keyboard_arrow_right</i></div>
           </div>
 
-          <div class="mdl-shadow--2dp- mdl-cell mdl-cell--11-col mdl-grid">
+          <div class="mdl-shadow--2dp- mdl-cell mdl-cell--10-col mdl-grid vai-a-enevelope">
 
             <div class="vai-a-container">
               
@@ -124,7 +130,7 @@
               <a id="torna-indietro" class="indietro button-vai-a mdl-color--grey-100 mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col" href="#"><br/>Torna<br/>indietro</a>
 
               
-              <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php"><br/><br/>Ho deciso!</a>
+              
 
 
               
@@ -133,8 +139,18 @@
           </div>
 
       </div>
-    </main>
-  </div>
+
+          <div id="footer-ho-deciso" class="">
+            <div class="mdl-grid mdl-cell--8-col">
+              <div class="mdl-grid mdl-cell--5-col informata-quanto-basta">Mi sono informata quanto basta!</div>
+              <div class="mdl-grid mdl-cell--3-col informata-quanto-basta">
+                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell--3-col mdl-button--raised mdl-button--accent mdl-color-text--white" href="valutazione.php">Pronta a scegliere</a>
+              </div>
+            </div>
+          </div>
+
+
+          </main>
    
      
 
