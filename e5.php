@@ -167,8 +167,11 @@
       <div class="mdl-tooltip mdl-tooltip--left" data-mdl-for="fonti">Approfondimenti</div>
 
 
-      <!--    MODALS      -->
 
+      <!--    MODALS      -->
+      <!--    mettere tutti i modal dentro il div hide-modal per rimuoverli dalla visualizzazione  -->
+
+      <div class="hide-modal">
 
       <div id="modal-fonti" class="mdl-dialog mdl-cell--11-col mdl-cell--11-col-tablet mdl-cell--11-col-desktop">
         <span class="mdl-dialog__title"><h4>Fonti</h4></span>
@@ -183,12 +186,6 @@
         </div>
       </div>
 
-
-
-      <!--    MODALS      -->
-      <!--    mettere tutti i modal dentro il div hide-modal per rimuoverli dalla visualizzazione  -->
-
-      <div class="hide-modal">
 
         <?php include'includes/common_modals.php';?>
 
