@@ -172,35 +172,8 @@
 
     <div class="hide-modal">
 
-      <div id="modal-tree-sitemap" class="">
-        <div class="mdl-cell mdl-cell--12-col mdl-grid">
-          <div class="vai-a-container">
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="b1.php">Che cos'è lo screening mammografico organizzato</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="a2.php">I pro e i contro della mammografia di screening</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="b2.php">Come interpretare il risultato della mammografia</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="e1.php">Disaccordo tra esperti sulla valutazione dei risultati</a>                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="b1.php">Che cos'è lo screening mammografico organizzato</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="a2.php">I pro e i contro della mammografia di screening</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="b2.php">Come interpretare il risultato della mammografia</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="e1.php">Disaccordo tra esperti sulla valutazione dei risultati</a>                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="b1.php">Che cos'è lo screening mammografico organizzato</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="a2.php">I pro e i contro della mammografia di screening</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="b2.php">Come interpretare il risultato della mammografia</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="e1.php">Disaccordo tra esperti sulla valutazione dei risultati</a>                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="b1.php">Che cos'è lo screening mammografico organizzato</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="a2.php">I pro e i contro della mammografia di screening</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="b2.php">Come interpretare il risultato della mammografia</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="e1.php">Disaccordo tra esperti sulla valutazione dei risultati</a>                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="b1.php">Che cos'è lo screening mammografico organizzato</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="a2.php">I pro e i contro della mammografia di screening</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="a2.php">I pro e i contro della mammografia di screening</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="b2.php">Come interpretare il risultato della mammografia</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="e1.php">Disaccordo tra esperti sulla valutazione dei risultati</a>                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="b1.php">Che cos'è lo screening mammografico organizzato</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="a2.php">I pro e i contro della mammografia di screening</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="b2.php">Come interpretare il risultato della mammografia</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="e1.php">Disaccordo tra esperti sulla valutazione dei risultati</a>                <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="b1.php">Che cos'è lo screening mammografico organizzato</a>
-            <a class="button-vai-a mdl-button--colored mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--raised mdl-color-text--white" href="a2.php">I pro e i contro della mammografia di screening</a>
-          </div>
-        </div>
-      </div>
 
-      <?php include'includes/common_modals.php';?>
+      <?php include 'includes/common_modals.php';?>
 
 
     </div>
@@ -216,32 +189,7 @@
 
           // TUTTI I MODAL
           
-          //copio l'html del modal nelle variabili da mostrare
-          var glossario = $('#modal-glossario').html();
-          var tree_sitemap = $('#modal-tree-sitemap').html();
-
-          $('#open-modal-glossario').click(function (e) {
-            e.preventDefault();
-            showDialog({
-              text: glossario,
-              positive: {
-                title: 'Chiudi'
-              }
-            });
-          });
-
-          $('#mostra-come-funziona').click(function () {
-            showDialog({
-              text: '<img margin:auto" src="images/help-index.png" class="gfx-modal" />',
-            });
-          });
-
-          $('.open-tree-sitemap').click(function (e) {
-            e.preventDefault();
-            showDialog({
-              text: tree_sitemap
-            });
-          });
+          <?php //include 'includes/common_modal_scripts.php'?>
 
           //mostro il modal all'ingresso
           showDialog({
