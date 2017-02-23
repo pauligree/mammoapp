@@ -18,59 +18,41 @@
 
           $('#open-come-funziona').click(function () {
             showDialog({
-              text: modal_funziona,
-              positive: {
-                title: 'Chiudi' 
-                }
+              text: modal_funziona 
             });
           });
 
           $('#open-tree-sitemap').click(function (e) {
             e.preventDefault();
             showDialog({
-              text: tree_sitemap,
-              positive: {
-                title: 'Chiudi'
-                }
+              text: tree_sitemap
             });
           });
 
           $('#open-saperne').click(function (e) {
             e.preventDefault();
             showDialog({
-              text: modal_saperne,
-              positive: {
-                title: 'Chiudi'
-                }
+              text: modal_saperne
             });
           });
 
           $('#open-licenza').click(function (e) {
             e.preventDefault();
             showDialog({
-              text: modal_licenza,
-              positive: {
-                title: 'Chiudi'
-                }
+              text: modal_licenza
             });
           });
 
           $('#open-funziona').click(function (e) {
             e.preventDefault();
             showDialog({
-              text: modal_funziona,
-              positive: {
-                title: 'Chiudi'
-                }
+              text: modal_funziona
             });
           });
 
           $('#open-disclaimer').click(function (e) {
             e.preventDefault();
             showDialog({
-              text: modal_disclaimer,
-              positive: {
-                title: 'Chiudi'
-                }
+              text: modal_disclaimer
             });
           });
