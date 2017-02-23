@@ -52,7 +52,7 @@
 <div id="modal-licenza" class="mdl-dialog mdl-cell--11-col mdl-cell--11-col-tablet mdl-cell--11-col-desktop">
   <div class="mdl-dialog__title"><h4>Licenza</h4></div>
   <div class="mdl-dialog__content">
-    <p>I contenuti di questo sito sono rilasciati sotto Licenza Creative Commons 3.0 Italia CC BY-NC.</p>
+    <p>I contenuti di questo sito sono rilasciati sotto <a href="https://creativecommons.org/licenses/by-nc/3.0/it/" target="_blank">Licenza Creative Commons 3.0 Italia CC BY-NC</a>.</p>
     <p>Il contenuto di questo sito non può essere riprodotto del tutto o in parte senza l’esplicita citazione, e mai a scopi commerciali. L'alterazione, la contraffazione, in tutto o in parte, del contenuto sono vietate e perseguibili a norma di legge.</p>
   </div>
 </div>
