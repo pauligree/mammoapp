@@ -21,6 +21,7 @@
               text: modal_funziona,
               positive: {
                 title: 'Chiudi' 
+                }
             });
           });
 
@@ -30,6 +31,7 @@
               text: tree_sitemap,
               positive: {
                 title: 'Chiudi'
+                }
             });
           });
 
@@ -39,6 +41,7 @@
               text: modal_saperne,
               positive: {
                 title: 'Chiudi'
+                }
             });
           });
 
@@ -48,6 +51,7 @@
               text: modal_licenza,
               positive: {
                 title: 'Chiudi'
+                }
             });
           });
 
@@ -57,6 +61,7 @@
               text: modal_funziona,
               positive: {
                 title: 'Chiudi'
+                }
             });
           });
 
@@ -66,5 +71,6 @@
               text: modal_disclaimer,
               positive: {
                 title: 'Chiudi'
+                }
             });
           });
